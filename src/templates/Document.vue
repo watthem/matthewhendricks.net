@@ -56,15 +56,18 @@ query Document ($path: String!) {
 }
 
 .document h3 {
-  @apply text-lg font-bold;
+  @apply text-xl font-bold;
 }
 
+.document h4 {
+  @apply text-lg font-bold;
+}
 .document a {
   @apply font-semibold text-blue-500;
 }
 
 .document ul {
-  @apply list-disc mx-10;
+  @apply list-disc;
 }
 
 .document blockquote {

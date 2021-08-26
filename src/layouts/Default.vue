@@ -68,7 +68,7 @@
     </header>
 
     <!-- Page Content -->
-    <main class="p-6 lg:w-3/4 md:w-3/4 w-full lg:m-auto">
+    <main class="px-2">
       <slot />
     </main>
 

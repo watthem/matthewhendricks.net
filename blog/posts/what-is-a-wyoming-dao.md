@@ -9,7 +9,17 @@ published: true
 date: 2021-06-01T13:07:30
 ---
 
+## Key points
+
+- What’s the difference between an LLC and a DAO LLC?
+- How does this change the way companies can solve problems?
+- What are the benefits and risks of forming a DAO LLC?
+- How might one form a DAO LLC?
+
+### Quick links in this articles
+
 - [Key points](#key-points)
+  - [Quick links in this articles](#quick-links-in-this-articles)
 - [Wyoming LLC DAO Overview](#wyoming-llc-dao-overview)
   - [What does this mean?](#what-does-this-mean)
   - [What does this change?](#what-does-this-change)
@@ -28,13 +38,6 @@ date: 2021-06-01T13:07:30
   - [Why-oming?](#why-oming)
   - [Read some research](#read-some-research)
 - [Learn more from Decent Fintech](#learn-more-from-decent-fintech)
-
-## Key points
-
-- What’s the difference between an LLC and a DAO LLC?
-- How does this change the way companies can solve problems?
-- What are the benefits and risks of forming a DAO LLC?
-- How might one form a DAO LLC?
 
 ## Wyoming LLC DAO Overview
 

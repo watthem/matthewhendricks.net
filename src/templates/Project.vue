@@ -7,23 +7,25 @@
 
     <article class="project">
       <!-- Title + Date -->
-      <div class="my-6 w-2/3 m-auto">
+      <div class="my-6">
         <h1 class="text-xl mb-2" v-html="$page.project.title" />
-        <p v-html="$page.project.date" class="text-gray-600" />
-        <p v-html="$page.project.description" class="text-gray-600" />
+        <p class="py-4">
+          👉 Read directly at
+          <a
+            :href="$page.project.URL"
+            class=" text-blue-600 cursor-pointer dark:text-blue-400 underline"
+            >{{ $page.project.domain }}</a
+          >
+        </p>
+        <p class="py-2">
+          <span>Work date:</span>
+          <span v-html="$page.project.date" class="text-gray-600 mx-1 " />
+        </p>
+        <p v-html="$page.project.description" />
         <a :href="$page.project.url"
           ><img class="w-2/3 m-auto shadow-lg" :src="$page.project.cover_image"
         /></a>
         <hr class="my-2" />
-
-        <p class="text-center">
-          Read more at
-          <a
-            :href="$page.project.URL"
-            class=" text-blue-600 cursor-pointer dark:text-blue-400 hover:underline"
-            >{{ $page.project.domain }}</a
-          >
-        </p>
       </div>
 
       <!-- Resume Project -->

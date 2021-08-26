@@ -1,12 +1,15 @@
 <template>
   <Layout>
+    <g-link class="underline text-blue-500" to="/resume"
+      >See my work resume &rarr;</g-link
+    >
     <div class="about leading-loose">
       <h1 class="text-xl mb-2" id="about-matthew">About and Contact</h1>
 
-      <section class="px-20 mx-auto my-20">
-        <div class="text-center w-1/4 m-auto">
+      <section class="">
+        <div class="text-center">
           <button
-            class="bg-transparent hover:bg-blue-100 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded"
+            class="bg-transparent text-xs hover:bg-blue-100 font-semibold py-2 px-4 border border-blue-500 hover:border-transparent rounded"
           >
             <g-link to="/about#contact">Send me a note</g-link>
           </button>
@@ -49,27 +52,27 @@
             </p>
             <ul class="ml-5 list-disc">
               <li>
-                <strong>Ookla</strong> - (the cats behind
+                <a href="https://ookla.com">Ookla</a> - (the cats behind
                 <a href="http://speedtest.net/">Speedtest.net</a>) as
                 <strong>Tech Services manager</strong>
               </li>
               <li>
-                <strong>NinjaTrader</strong> - (a community of thousands of
-                traditional finance developers) as a
+                <a href="https://ninjatrader.com">NinjaTrader</a> - (a community
+                of thousands of traditional finance developers) as a
                 <strong>Product Manager and Tech Lead</strong>
               </li>
               <li>
-                <strong>Microsoft</strong> - (through consultanting agencies) as
-                a <strong>Tech Writer</strong>
+                <span>Microsoft</span> - (through consultanting agencies) as a
+                <strong>Tech Writer</strong>
               </li>
             </ul>
 
-            <ul class="text-sm text-gray-600 dark:text-gray-200">
-              <li class="rounded-lg p-2">
-                <a class="sparkle-link" href="/resume/">View my résumé</a>
+            <ul class="p-8">
+              <li class="p-2">
+                <g-link to="/resume/">View my résumé</g-link>
               </li>
               <li class="p-2">
-                <a class="sparkle-link" href="/work/">See my work examples</a>
+                <g-link to="/work/">See my work examples</g-link>
               </li>
             </ul>
           </div>
@@ -78,8 +81,7 @@
 
       <section
         id="contact"
-        class="
-          
+        class="w-3/4 m-auto        
         "
       >
         <h2
@@ -207,7 +209,7 @@
                 <div class="flex justify-center mt-6">
                   <button
                     type="submit"
-                    class="bg-transparent hover:bg-blue-100 font-semibold  py-2 px-4 border border-blue-500 hover:border-transparent rounded"
+                    class="bg-transparent text-xs hover:bg-blue-100 font-semibold py-2 px-4 border border-blue-500 hover:border-transparent rounded"
                   >
                     Send Message
                   </button>

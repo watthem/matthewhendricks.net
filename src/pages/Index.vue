@@ -4,7 +4,7 @@
       <TagLine></TagLine>
     </div>
 
-    <div class="w-screen m-auto">
+    <div class="w-full m-auto">
       <PlatformList></PlatformList>
     </div>
     <div class="bg-blue-100 py-20 rounded-tr-full">

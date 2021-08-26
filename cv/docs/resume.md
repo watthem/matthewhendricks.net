@@ -11,16 +11,17 @@ tags: ["Work history"]
 
 ## Matthew S. Hendricks - Digital Business Analyst
 
-Tech Writer | Product Manager | Financial Service Support
+Tech Writer | Product Manager | Financial Service Engineer
 
 - **Address**: Seattle WA, 98125
-- **Phone**: 206-446-5495
+- **Cell Phone**: 307-223-8744
+- **Home Phone**: 206-446-5495
 - **Email**: matthew.scott.hendricks@gmail.com
 - **Portfolio**: [matthewhendricks.net/work/](https://www.matthewhendricks.net/work/)
 
-Innovated technical generalist with over a decade of experience supporting financial technologies and an excellent reputation for resolving problems while improving customer satisfaction.
+Technical generalist with over a decade of experience supporting financial technologies and an excellent reputation for resolving problems while improving customer satisfaction.
 
-> "I bring value with hands-on understanding of traditional finance and modern programming concepts with record of producing interactive digital work using knowledge of content management systems and Git workflows."
+> "I bring value with a blend of traditional finance and modern programming concepts with record of producing interactive digital work using knowledge of content management systems and DevOps workflows."
 
 ## Work History
 

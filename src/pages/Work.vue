@@ -1,15 +1,13 @@
 <template>
   <Layout>
-    <g-link class="underline text-blue-500" to="/resume"
-      >See my work resume &rarr;</g-link
+    <g-link class="underline text-blue-500" to="/about"
+      >Learn more about me &rarr;</g-link
     >
     <h1 class="text-xl text-blue-800 mb-2">Matthew's Work Examples</h1>
-    <div class="space-y-4 w-full">
-      <h2 class="text-lg mb-2">Projects and hobbies</h2>
-      <h2>You can see featured instances my work on these platforms:</h2>
-      <social-icons></social-icons>
+    <div class="space-y-6">
       <div class="about w-3/4 m-auto">
-        <div class="flex flex-wrap w-full m-auto">
+        <h2>Resume Projects</h2>
+        <div class="flex flex-wrap m-auto">
           <ResumeFeedProject
             v-for="edge in $page.allProject.edges"
             :key="edge.node.id"
