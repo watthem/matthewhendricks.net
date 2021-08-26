@@ -1,5 +1,5 @@
 <template>
-  <div class="text-gray-900">
+  <div class="m-auto w-full">
     <!-- Header & Navigation -->
     <header class="bg-white dark:bg-gray-800 container w-full m-auto">
       <nav
@@ -68,7 +68,7 @@
     </header>
 
     <!-- Page Content -->
-    <main class="px-2">
+    <main class="conatiner m-auto max-w-2xl p-8">
       <slot />
     </main>
 

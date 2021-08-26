@@ -1,11 +1,17 @@
 <template>
   <Layout>
-    <g-link class="underline text-blue-500" to="/work"
-      >See my work examples &rarr;</g-link
-    >
+    <div class="py-4">
+      <g-link class="underline text-blue-500" to="/work"
+        >See my work examples &rarr;</g-link
+      >
+    </div>
 
-    <h1 class="text-xl text-blue-800 mb-2">Matthew's Work Portfolio</h1>
-    <div class="space-y-4 w-full">
+    <div class="py-4">
+      <h1 class="text-xl text-blue-800 mb-2">
+        Matthew's Work Portfolio
+      </h1>
+    </div>
+    <div class="py-4">
       <h2 class="text-lg mb-2">Work history</h2>
 
       <div
