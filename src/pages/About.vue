@@ -12,21 +12,20 @@
     </div>
 
     <div class="py-4">
-      <div class="my-5">
-        <img
-          class="
+      <img
+        class="
             rounded-full
             bg-white
-            dark:bg-gray-800
+            
             flex
             mx-auto
             overflow-hidden
             rounded-lg            
             w-1/3
           "
-          src="/author.jpeg"
-        />
-      </div>
+        src="/author.jpeg"
+      />
+
       <div class="text-center">
         <SocialIcons></SocialIcons>
         <button
@@ -35,51 +34,47 @@
           <g-link to="/about#contact">Send me a note</g-link>
         </button>
       </div>
-      <div class="leading-loose">
-        <span class="">👋</span>
-        <h2 class="text-blue-700 font-bold">Writer/Consultant</h2>
-        <p class="">
-          I have worked with both start-ups and independent consulting gigs.
-          I&#39;ve also had the good fortune of working for technology giants:
-        </p>
-        <ul class="ml-5 list-disc">
-          <li>
-            <a class="text-blue-500 underline" href="https://ookla.com"
-              >Ookla</a
-            >
-            - (the cats behind
-            <a class="text-blue-500 underline" href="http://speedtest.net/"
-              >Speedtest.net</a
-            >) as
-            <strong>Tech Services manager</strong>
-          </li>
-          <li>
-            <a class="text-blue-500 underline" href="https://ninjatrader.com"
-              >NinjaTrader</a
-            >
-            - (a community of thousands of traditional finance developers) as a
-            <strong>Product Manager and Tech Lead</strong>
-          </li>
-          <li>
-            <span>Microsoft</span> and <span>Premera Blue Cross</span> -
-            (through consultanting agencies) as a
-            <strong>Tech Writer</strong>
-          </li>
-        </ul>
+    </div>
+    <div class="py-4 my-10 leading-loose">
+      <span class="">👋</span>
+      <h2 class="text-blue-700 font-bold">Writer/Consultant</h2>
+      <p class="">
+        I have worked with both start-ups and independent consulting gigs.
+        I&#39;ve also had the good fortune of working for technology giants:
+      </p>
+      <ul class="ml-5 list-disc">
+        <li>
+          <a class="text-blue-500 underline" href="https://ookla.com">Ookla</a>
+          - (the cats behind
+          <a class="text-blue-500 underline" href="http://speedtest.net/"
+            >Speedtest.net</a
+          >) as
+          <strong>Tech Services manager</strong>
+        </li>
+        <li>
+          <a class="text-blue-500 underline" href="https://ninjatrader.com"
+            >NinjaTrader</a
+          >
+          - (a community of thousands of traditional finance developers) as a
+          <strong>Product Manager and Tech Lead</strong>
+        </li>
+        <li>
+          <span>Microsoft</span> and <span>Premera Blue Cross</span> - (through
+          consultanting agencies) as a
+          <strong>Tech Writer</strong>
+        </li>
 
-        <ul class="p-8">
-          <li class="p-2">
-            <g-link class="text-blue-500 underline" to="/work/"
-              >See my work examples</g-link
-            >
-          </li>
-        </ul>
-      </div>
+        <li>
+          <g-link class="text-blue-500 underline" to="/work/"
+            >See my examples of my work</g-link
+          >
+        </li>
+      </ul>
     </div>
 
     <div
       id="contact"
-      class="w-3/4 m-auto        
+      class="py-4 my-10 px-6 mx-auto bg-gray-200 rounded-lg text-gray-900
         "
     >
       <h2
@@ -93,7 +88,7 @@
         Get in touch
       </h2>
 
-      <div class="mt-6">
+      <div class="mt-6 ">
         <form action="https://formspree.io/mayprbyk" method="POST">
           <div class="sender-info">
             <div class="group">
@@ -220,19 +215,15 @@
         Send me an email, text, or leave a voicemail
       </p>
 
-      <div class="flex-row mt-6 w-1/2 lg:w-1/4 m-auto">
+      <div class="flex flex-wrap py-6">
         <a
           href="mailto:contact@matthewhendricks.net"
           class="
-              flex flex-col
-              items-center
-              px-4
-              py-3
+             m-5
               text-gray-700
               rounded-md
               dark:text-gray-200
-              hover:bg-blue-200
-              dark:hover:bg-blue-500
+          
             "
         >
           <svg
@@ -252,15 +243,11 @@
         <a
           href="tel:+1 307-223-8744"
           class="
-              flex flex-col
-              items-center
-              px-4
-              py-3
+              m-5
               text-gray-700
               rounded-md
               dark:text-gray-200
-              hover:bg-blue-200
-              dark:hover:bg-blue-500
+           
             "
         >
           <svg
@@ -279,15 +266,11 @@
         <a
           href="https://www.google.com/maps/place/Seattle,+WA+98125"
           class="
-              flex flex-col
-              items-center
-              px-4
-              py-3
+              m-5
               text-gray-700
               rounded-md
               dark:text-gray-200
-              hover:bg-blue-200
-              dark:hover:bg-blue-500
+           
             "
         >
           <svg
@@ -307,7 +290,7 @@
         </a>
       </div>
     </div>
-    <div class="py-4 px-8 shadow bg-gray-200 rounded-lg text-gray-900">
+    <div class="py-4 px-8 shadow ">
       <h2
         class="text-2xl font-bold text-gray-800 dark:text-white md:text-3xl"
         id="donate"
@@ -320,23 +303,23 @@
       </p>
       <dl class="list-disc p-10 break-all">
         <dt class="font-bold">ADA</dt>
-        <dd class="shadow text-gray-600">
+        <dd class="shadow bg-gray-100 p-1 text-gray-600">
           addr1q8x7yus952edpl39xyh4xqvd9rt545qvpr2e7chkvjpa4q77ppe4cqww94csh3mjqarc7yvlzjrjrctvcmttkh66fyvqprjp0d
         </dd>
         <dt class="font-bold">BTC</dt>
-        <dd class="shadow text-gray-600">
+        <dd class="shadow bg-gray-100 p-1 text-gray-600">
           bc1qxh43fxj0nelgrzdarw20xqupe40uu9n87elkef
         </dd>
         <dt class="font-bold">ETH</dt>
-        <dd class="shadow text-gray-600">
+        <dd class="shadow bg-gray-100 p-1 text-gray-600">
           0x4CCA834388a145955854Dc38a9D349A8298032a1
         </dd>
         <dt class="font-bold">LTC</dt>
-        <dd class="shadow text-gray-600">
+        <dd class="shadow bg-gray-100 p-1 text-gray-600">
           ltc1qgw0qtx98r46s8ztmvgdlex7z9652gnazuns7f2
         </dd>
         <dt class="font-bold">ONE</dt>
-        <dd class="shadow text-gray-600 ">
+        <dd class="hadow bg-gray-100 p-1 text-gray-600">
           one1zl37rrfx2shz4r745klxk4an8u32c4se3sn5ee
         </dd>
       </dl>

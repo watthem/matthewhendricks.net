@@ -1,8 +1,6 @@
 <template>
-  <section class="max-w-sm my-10 mx-auto  ">
-    <div
-      class="w-full px-4 py-3 bg-white rounded-md shadow-md dark:bg-gray-800"
-    >
+  <section class="my-10 mx-auto  ">
+    <div class="px-4 py-3 bg-white rounded-md shadow-md dark:bg-gray-800">
       <div class="flex items-center justify-between">
         <span
           v-if="project.company"
@@ -16,11 +14,6 @@
           class="text-xs mr-2 font-medium text-blue-600 uppercase dark:text-blue-400"
           >#{{ tag.title }}</g-link
         >
-        <!-- <span
-          class="px-3 py-1 text-xs text-indigo-800 uppercase bg-indigo-200 rounded-full dark:bg-indigo-300 dark:text-indigo-900"
-          ><g-link :to="project.tags[0].path">
-            {{ project.tags[0].title }}</g-link
-          ></span> -->
       </div>
 
       <div>
