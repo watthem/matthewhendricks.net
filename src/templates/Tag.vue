@@ -1,10 +1,16 @@
 <template>
   <Layout>
-    <article>
-      <h1 class="text-xl mb-2">Tag == {{ $page.tags.title }}</h1>
+    <div class="py-4">
+      <g-link class="text-blue-500" to="/archive">&larr; View archive</g-link>
+    </div>
+    <div class="py-4">
+      <h1 class="text-xl mb-2">Pages tagged `{{ $page.tags.title }}`</h1>
+    </div>
 
-      <h2>Results:</h2>
-
+    <div class="py-4">
+      <h2 class="text-lg mb-2">Results:</h2>
+    </div>
+    <div class="py-4">
       <p class="text-gray-600">
         Total of {{ $page.tags.belongsTo.totalCount }}
       </p>
@@ -15,7 +21,7 @@
         :post="page.node"
       >
       </ArchiveFeedEverything>
-    </article>
+    </div>
   </Layout>
 </template>
 
