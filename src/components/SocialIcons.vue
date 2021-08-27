@@ -1,5 +1,5 @@
 <template>
-  <div class="flex mx-auto items-center mt-6">
+  <div class="flex py-4 justify-center">
     <a
       class="mx-2"
       href="https://matthewhendricks.substack.com/"

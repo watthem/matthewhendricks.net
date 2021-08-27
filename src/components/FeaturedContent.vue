@@ -17,7 +17,7 @@
           ></div>
         </div>
 
-        <div class="max-w-xl px-6 py-12 lg:max-w-5xl lg:w-1/2">
+        <div class="px-6 py-12 max-w-5xl w-1/2">
           <h2
             class="text-2xl font-bold text-gray-800 dark:text-white md:text-3xl"
           >
@@ -55,7 +55,7 @@
           ></div>
         </div>
 
-        <div class="max-w-xl px-6 py-12 lg:max-w-5xl lg:w-1/2">
+        <div class="px-6 py-12 max-w-5xl w-1/2">
           <h2
             class="text-2xl font-bold text-gray-800 dark:text-white md:text-3xl"
           >
@@ -96,7 +96,7 @@
           ></div>
         </div>
 
-        <div class="max-w-xl px-6 py-12 lg:max-w-5xl lg:w-1/2">
+        <div class="px-6 py-12 max-w-5xl w-1/2">
           <h2
             class="text-2xl font-bold text-gray-800 dark:text-white md:text-3xl"
           >

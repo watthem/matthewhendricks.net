@@ -9,15 +9,13 @@
       <h1 class="text-xl text-blue-800 mb-2">Matthew's Work Examples</h1>
     </div>
     <div class="py-4">
-      <div class="about w-3/4 m-auto">
-        <h2>Resume Projects</h2>
-        <div class="flex flex-wrap m-auto">
-          <ResumeFeedProject
-            v-for="edge in $page.allProject.edges"
-            :key="edge.node.id"
-            :project="edge.node"
-          />
-        </div>
+      <h2 class="text-lg mb-2">Resume Projects</h2>
+      <div class="flex flex-wrap m-auto">
+        <ResumeFeedProject
+          v-for="edge in $page.allProject.edges"
+          :key="edge.node.id"
+          :project="edge.node"
+        />
       </div>
     </div>
   </Layout>

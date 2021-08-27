@@ -6,18 +6,12 @@
       >
     </div>
     <div class="py-4">
-      <h1 class="text-xl mb-2" id="about-matthew">About and Contact</h1>
+      <h1 class="text-xl text-blue-800 mb-2" id="about-matthew">
+        About Matthew
+      </h1>
     </div>
 
     <div class="py-4">
-      <div class="text-center">
-        <SocialIcons></SocialIcons>
-        <button
-          class="bg-transparent text-xs hover:bg-blue-100 font-semibold py-2 px-4 border border-blue-500 hover:border-transparent rounded"
-        >
-          <g-link to="/about#contact">Send me a note</g-link>
-        </button>
-      </div>
       <div class="my-5">
         <img
           class="
@@ -28,12 +22,19 @@
             mx-auto
             overflow-hidden
             rounded-lg            
-            w-1/2
+            w-1/3
           "
           src="/author.jpeg"
         />
       </div>
-
+      <div class="text-center">
+        <SocialIcons></SocialIcons>
+        <button
+          class="bg-transparent text-xs hover:bg-blue-100 font-semibold py-2 px-4 border border-blue-500 hover:border-transparent rounded"
+        >
+          <g-link to="/about#contact">Send me a note</g-link>
+        </button>
+      </div>
       <div class="leading-loose">
         <span class="">👋</span>
         <h2 class="text-blue-700 font-bold">Writer/Consultant</h2>
@@ -43,27 +44,39 @@
         </p>
         <ul class="ml-5 list-disc">
           <li>
-            <a href="https://ookla.com">Ookla</a> - (the cats behind
-            <a href="http://speedtest.net/">Speedtest.net</a>) as
+            <a class="text-blue-500 underline" href="https://ookla.com"
+              >Ookla</a
+            >
+            - (the cats behind
+            <a class="text-blue-500 underline" href="http://speedtest.net/"
+              >Speedtest.net</a
+            >) as
             <strong>Tech Services manager</strong>
           </li>
           <li>
-            <a href="https://ninjatrader.com">NinjaTrader</a> - (a community of
-            thousands of traditional finance developers) as a
+            <a class="text-blue-500 underline" href="https://ninjatrader.com"
+              >NinjaTrader</a
+            >
+            - (a community of thousands of traditional finance developers) as a
             <strong>Product Manager and Tech Lead</strong>
           </li>
           <li>
-            <span>Microsoft</span> - (through consultanting agencies) as a
+            <span>Microsoft</span> and <span>Premera Blue Cross</span> -
+            (through consultanting agencies) as a
             <strong>Tech Writer</strong>
           </li>
         </ul>
 
         <ul class="p-8">
           <li class="p-2">
-            <g-link to="/resume/">View my résumé</g-link>
+            <g-link class="text-blue-500 underline" to="/resume/"
+              >View my résumé</g-link
+            >
           </li>
           <li class="p-2">
-            <g-link to="/work/">See my work examples</g-link>
+            <g-link class="text-blue-500 underline" to="/work/"
+              >See my work examples</g-link
+            >
           </li>
         </ul>
       </div>
