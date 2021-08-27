@@ -18,7 +18,7 @@
         <div class="px-6 py-12 max-w-5xl w-1/2">
           <h2 class="text-2xl font-bold text-gray-800">
             Programming guides and reference resources for
-            <span class="text-purple-600">Fintech developers</span>
+            <span class="text-gray-600">Fintech developers</span>
           </h2>
           <p class="mt-4 text-gray-600">
             I wrote developer friendly software documentation for an online
@@ -50,7 +50,7 @@
         <div class="px-6 py-12 max-w-5xl w-1/2">
           <h2 class="text-2xl font-bold text-gray-800 md:text-3xl">
             NetGauge to Speedtest Custom (legacy Flash to HTML5)
-            <span class="text-purple-600 ">client migration</span>
+            <span class="text-gray-600 ">client migration</span>
           </h2>
           <p class="mt-4 text-gray-600 ">
             Ookla—the team behind Speedtest.net—also offers an enterprise
@@ -84,8 +84,7 @@
 
         <div class="px-6 py-12 max-w-5xl w-1/2">
           <h2 class="text-2xl font-bold text-gray-800  md:text-3xl">
-            <span class="text-purple-600 ">Decentralized</span> message
-            protocols
+            <span class="text-gray-600 ">Decentralized</span> message protocols
           </h2>
           <p class="mt-4 text-gray-600 ">
             I've been unemployed since COVID, but I'm busy hosting a private
