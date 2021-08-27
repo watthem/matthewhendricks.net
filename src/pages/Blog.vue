@@ -1,6 +1,11 @@
 <template>
   <Layout>
     <div class="py-4">
+      <g-link class="underline text-blue-500" to="/archive"
+        >View tags &rarr;</g-link
+      >
+    </div>
+    <div class="py-4">
       <h1 class="text-xl text-blue-800 mb-2">Blog Articles</h1>
     </div>
     <div class="py-4">

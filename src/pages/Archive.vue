@@ -13,11 +13,22 @@
       </ul>
     </div>
     <div class="py-4">
+      <h2 class="text-lg mb-2">Blog posts</h2>
       <ArchiveFeedEverything
         v-for="edge in $page.posts.edges"
         :key="edge.node.id"
         :post="edge.node"
       />
+    </div>
+    <div class="py-4">
+      <h2 class="text-lg mb-2">Work Projects</h2>
+      <div class="py-4">
+        <ArchiveFeedEverything
+          v-for="edge in $page.projects.edges"
+          :key="edge.node.id"
+          :post="edge.node"
+        />
+      </div>
     </div>
   </Layout>
 </template>
@@ -34,7 +45,20 @@ query PostsAndTags {
         description
       }
     }
+  },
+
+  projects: allProject(filter: { published: { eq: true } }) {
+    edges {
+      node {
+        id
+        title
+        date(format: "D MMMM YYYY")
+        path
+        description
+      }
+    }
   }
+
 
   tags: allTag {
     edges {

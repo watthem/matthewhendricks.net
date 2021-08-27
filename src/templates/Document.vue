@@ -7,18 +7,14 @@
     </div>
     <div class="py-4">
       <h1 class="text-xl mb-2" v-html="$page.document.title" />
-    </div>
-    <!-- Back to Blog Button -->
-    <!-- Title + Date -->
-    <div class="my-6">
       <p v-html="$page.document.date" class="text-gray-600" />
-      <hr class="my-2" />
     </div>
+
     <div class="py-4">
       <!-- <img :src="$page.document.cover_image"> -->
       <article class="document leading-loose">
         <h2 v-html="$page.document.subtitle" class="" />
-
+        <hr />
         <div v-html="$page.document.description" class="" />
 
         <div v-html="$page.document.content" class="py-6" />
@@ -61,15 +57,15 @@ query Document ($path: String!) {
 <style>
 /* Apply Global document Article Styles Here */
 .document h2 {
-  @apply text-xl font-bold;
+  @apply text-xl font-bold  mt-5;
 }
 
 .document h3 {
-  @apply text-xl font-bold;
+  @apply text-xl font-bold mt-10;
 }
 
 .document h4 {
-  @apply text-lg font-bold;
+  @apply text-lg font-bold mb-5;
 }
 .document a {
   @apply font-semibold text-blue-500;
@@ -81,5 +77,6 @@ query Document ($path: String!) {
 
 .document blockquote {
   font-style: italic;
+  @apply text-lg border-l-2 px-2 border-gray-400 italic text-gray-700;
 }
 </style>
