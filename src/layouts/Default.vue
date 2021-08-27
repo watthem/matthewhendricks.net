@@ -66,12 +66,12 @@
         </div>
       </nav>
     </header>
-
-    <!-- Page Content -->
-    <main class="conatiner m-auto max-w-2xl p-8">
-      <slot />
-    </main>
-
+    <transition name="fade" appear>
+      <!-- Page Content -->
+      <main class="conatiner m-auto max-w-2xl p-8">
+        <slot />
+      </main>
+    </transition>
     <footer class="bg-white dark:bg-gray-800">
       <div class="container px-6 py-4 mx-auto">
         <div class="lg:flex">
@@ -179,6 +179,14 @@ query {
 
 body {
   line-height: 2.8;
+}
+
+.fade-enter-active {
+  transition: opacity 0.5s;
+}
+
+.fade-enter {
+  opacity: 0;
 }
 </style>
 
