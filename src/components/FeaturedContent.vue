@@ -71,36 +71,6 @@
         </div>
       </div>
     </div>
-    <div class="lg:py-12 my-5 shadow  lg:flex lg:justify-center">
-      <div
-        class="bg-white lg:mx-8 lg:flex lg:max-w-5xl lg:shadow-lg lg:rounded-lg"
-      >
-        <div class="lg:w-1/2">
-          <div
-            class="h-64 bg-cover lg:rounded-lg lg:h-full"
-            style="background-image:url('http://decentfinance.club/img/room-phone.png')"
-          ></div>
-        </div>
-
-        <div class="px-6 py-12 max-w-5xl w-1/2">
-          <h2 class="text-2xl font-bold text-gray-800  md:text-3xl">
-            <span class="text-gray-600 ">Decentralized</span> message protocols
-          </h2>
-          <p class="mt-4 text-gray-600 ">
-            I've been unemployed since COVID, but I'm busy hosting a private
-            fintech community powered by matrix.org
-          </p>
-
-          <div class="mt-8">
-            <g-link
-              to="/tag/decentralization/"
-              class="sparkle-link px-5 py-2 font-semibold text-gray-100 transition-colors duration-200 transform bg-blue-800 rounded-md hover:bg-gray-700"
-              >Read More</g-link
-            >
-          </div>
-        </div>
-      </div>
-    </div>
   </section>
 </template>
 
