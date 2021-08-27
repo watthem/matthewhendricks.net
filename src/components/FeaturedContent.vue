@@ -1,5 +1,5 @@
 <template lang="html">
-  <section class="w-3/4 m-auto ">
+  <section class="featured">
     <h2 class="text-3xl font-bold text-gray-800 dark:text-gray-100">
       Featured Content
     </h2>

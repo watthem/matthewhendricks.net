@@ -1,5 +1,5 @@
 <template>
-  <div class="my-5 p-5">
+  <div class="py-4">
     <g-link
       v-for="tag in post.tags"
       :key="tag.id"

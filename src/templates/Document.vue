@@ -1,21 +1,26 @@
 <template>
   <Layout>
-    <h1 class="text-xl mb-2" v-html="$page.document.title" />
+    <div class="py-4">
+      <g-link class="text-blue-500" to="/resume/">&larr; Back to CV</g-link>
+    </div>
+    <div class="py-4">
+      <h1 class="text-xl mb-2" v-html="$page.document.title" />
+    </div>
     <!-- Back to Blog Button -->
-    <g-link class="text-blue-500" to="/resume/">&larr; Back to CV</g-link>
-    <br />
 
-    <!-- <img :src="$page.document.cover_image"> -->
-    <article class="document w-2/3 m-auto">
-      <!-- Title + Date -->
-      <div class="my-6">
-        <p v-html="$page.document.date" class="text-gray-600" />
-        <hr class="my-2" />
-      </div>
+    <div class="py-4">
+      <!-- <img :src="$page.document.cover_image"> -->
+      <article class="document w-2/3 m-auto">
+        <!-- Title + Date -->
+        <div class="my-6">
+          <p v-html="$page.document.date" class="text-gray-600" />
+          <hr class="my-2" />
+        </div>
 
-      <!-- content of document -->
-      <div v-html="$page.document.content" class="space-y-6" />
-    </article>
+        <!-- content of document -->
+        <div v-html="$page.document.content" class="space-y-6" />
+      </article>
+    </div>
   </Layout>
 </template>
 

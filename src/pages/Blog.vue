@@ -1,8 +1,9 @@
 <template>
   <Layout>
-    <h1 class="text-xl mb-2">Blog Articles</h1>
-
-    <div class="space-y-4">
+    <div class="py-4">
+      <h1 class="text-xl mb-2">Blog Articles</h1>
+    </div>
+    <div class="py-4">
       <BlogFeedPost
         v-for="edge in $page.allPost.edges"
         :key="edge.node.id"

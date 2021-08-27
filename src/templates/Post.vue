@@ -1,9 +1,11 @@
 <template>
   <Layout class="post">
     <!-- Back to Blog Button -->
-    <g-link to="/blog/" class="text-blue-500">&larr; Back to blog</g-link>
+    <div class="py-4">
+      <g-link to="/blog/" class="text-blue-500">&larr; Back to blog</g-link>
+    </div>
     <!-- Title + Date -->
-    <div class="my-6 w-2/3 m-auto">
+    <div class="my-4">
       <h1 class="text-xl mb-2" v-html="$page.post.title" />
 
       <div class="mt-5">
@@ -55,14 +57,16 @@
       </div>
     </div>
 
-    <hr class="my-2" />
-
-    <img class="" :src="$page.post.cover_image" />
-
-    <article class="post ">
-      <!-- Blog Post -->
-      <div v-html="$page.post.content" class="space-y-6" />
-    </article>
+    <hr class="py-4" />
+    <div class="py-4">
+      <img class="" :src="$page.post.cover_image" />
+    </div>
+    <div class="py-4">
+      <article class="post ">
+        <!-- Blog Post -->
+        <div v-html="$page.post.content" class="space-y-6" />
+      </article>
+    </div>
   </Layout>
 </template>
 

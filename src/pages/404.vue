@@ -1,9 +1,13 @@
 <template>
   <Layout>
-    <div class="space-y-4 w-1/2 m-auto">
+    <div class="py-4">
       <h1>Oops</h1>
+    </div>
+    <div class="py-4">
       <pre>Hello, world!</pre>
       <p class="py-8">Not sure where that page is...</p>
+    </div>
+    <div class="py-4">
       <g-link class="underline text-blue-500" to="/resume"
         >See my work resume &rarr;</g-link
       >

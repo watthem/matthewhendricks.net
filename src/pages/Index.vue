@@ -7,13 +7,13 @@
     <div class="w-full m-auto">
       <PlatformList></PlatformList>
     </div>
-    <div class="bg-blue-100 py-20 rounded-tr-full">
+    <div class="w-full bg-blue-100 py-20 rounded-tr-full">
       <FeaturedContent></FeaturedContent>
     </div>
-    <div class="my-20">
+    <div class="w-full my-20">
       <PageGallery></PageGallery>
     </div>
-    <div>
+    <div class="w-full">
       <NewsLetterForm></NewsLetterForm>
     </div>
   </Layout>

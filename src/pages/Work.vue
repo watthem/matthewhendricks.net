@@ -1,10 +1,14 @@
 <template>
   <Layout>
-    <g-link class="underline text-blue-500" to="/about"
-      >Learn more about me &rarr;</g-link
-    >
-    <h1 class="text-xl text-blue-800 mb-2">Matthew's Work Examples</h1>
-    <div class="space-y-6">
+    <div class="py-4">
+      <g-link class="underline text-blue-500" to="/about"
+        >Learn more about me &rarr;</g-link
+      >
+    </div>
+    <div class="py-4">
+      <h1 class="text-xl text-blue-800 mb-2">Matthew's Work Examples</h1>
+    </div>
+    <div class="py-4">
       <div class="about w-3/4 m-auto">
         <h2>Resume Projects</h2>
         <div class="flex flex-wrap m-auto">
