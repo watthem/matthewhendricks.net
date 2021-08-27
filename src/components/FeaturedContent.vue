@@ -22,9 +22,9 @@
           </h2>
           <p class="mt-4 text-gray-600">
             I wrote developer friendly software documentation for an online
-            trading platform. Retail investors rely on the interoperable and
-            customization of this platform for discretionary and automated
-            trading of commodities and currencies.
+            trading platform. Thousandas of commodities and currencies investors
+            rely on the interoperability and customization of this .NET/C#
+            platform for their discretionary and automated trading needs.
           </p>
           <div class="mt-8">
             <g-link
@@ -53,12 +53,11 @@
             <span class="text-gray-600 ">client migration</span>
           </h2>
           <p class="mt-4 text-gray-600 ">
-            Ookla—the team behind Speedtest.net—also offers an enterprise
-            version of their flagship software used to measure network
-            performance between a client and server. During the transition from
-            legacy Flash protocols to new HTML5/JavaScript APIs, I lead a small
-            team of technical service contractors to assist with the increased
-            workload from the transition.
+            I lead a small team of technical service contractors to assist with
+            the increased workload from the transition. Ookla—the team behind
+            Speedtest.net—offer an enterprise version of their flagship
+            software. During the transition from their legacy Adobe Flash client
+            to new HTML5/JavaScript APIs.
           </p>
 
           <div class="mt-8">
