@@ -8,7 +8,7 @@ layout: article
 published: true
 description: "A practical breakdown of multi-asset tokens"
 tags:
-  ["Cardano", "Native tokens", "Decentralization", "Fintech", "Cryptocurrency"]
+  ["cardano", "native-tokens", "decentralization", "fintech", "cryptocurrency"]
 title: "Understand Cardano Native tokens"
 ---
 

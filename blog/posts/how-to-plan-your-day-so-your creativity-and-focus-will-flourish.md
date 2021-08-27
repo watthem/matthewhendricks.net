@@ -12,7 +12,7 @@ date: 2020-08-12
 description: "The best way to genuinely improve mental performance is to understand the natural limits of our brain. By paying attention to your habits, you can learn to cultivate the mind to create your best work."
 published: true
 featured: true
-tags: ["Mental Health", "Productivity"]
+tags: ["mental-health", "productivity"]
 title: "How to plan your day so your creativity and focus will flourish"
 ---
 

@@ -11,6 +11,6 @@ URL: https://ninjatrader.com/support/helpGuides/nt8/?welcome.htm
 canonical_url: false
 
 date: 2016-06-01
-tags: ["Fintech"]
+tags: ["fintech"]
 domain: ninjatrader.com
 ---

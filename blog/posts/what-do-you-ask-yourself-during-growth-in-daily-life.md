@@ -8,7 +8,7 @@ cover_image: https://mscott.b-cdn.net/images/growth.jpg
 date: 2019-12-27
 description: "Worry and doubt will surely strike at the worst of times. And it’s usually impossible to catch at the moment — it’s not until I’ve started acting and reacting that I realize that stress drives my behaviors or words."
 published: true
-tags: ["Mental Health"]
+tags: ["mental-health"]
 title: "What do you ask yourself during growth in daily life?"
 ---
 

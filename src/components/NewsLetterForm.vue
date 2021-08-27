@@ -2,7 +2,7 @@
   <section>
     <!-- newsletter sign-up -->
     <div class="container px-6 py-16 mx-auto">
-      <div class="items-center lg:flex">
+      <div class="items-center">
         <div class="flex items-center justify-center ">
           <img
             class="object-cover object-bottom h-64 rounded-md shadow w-full"
@@ -12,9 +12,7 @@
         </div>
       </div>
       <div class="bg-gray-100">
-        <h2
-          class="text-2xl font-semibold text-gray-800 dark:text-white lg:text-3xl"
-        >
+        <h2 class="text-2xl font-semibold text-gray-800 dark:text-white">
           Subscribe to my
           <a
             href="https://matthewhendicks.substack.com"

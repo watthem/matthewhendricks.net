@@ -8,7 +8,7 @@ description: When looking at technical financial data, it's common to need to an
 subjects: [".NET-C#", "DirectX"]
 URL: https://ninjatrader.com/support/helpGuides/nt8/?drawing_tools.htm
 date: 2015-05-28
-tags: ["Fintech", "front-end"]
+tags: ["fintech", "front-end"]
 domain: ninjatrader.com
 ---
 

@@ -8,6 +8,6 @@ description: NinjaTrader used two different APIs for rending UI components, depe
 subjects: ["NinjaTrader", "DirectX"]
 URL: https://ninjatrader.com/support/helpGuides/nt8/?working_with_brushes.htm
 date: 2016-06-01
-tags: ["Fintech", "front-end"]
+tags: ["fintech", "front-end"]
 domain: ninjatrader.com
 ---

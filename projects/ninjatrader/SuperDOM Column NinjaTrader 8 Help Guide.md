@@ -8,7 +8,7 @@ description: A flagship order entry feature for day traders was enhanced to allo
 subjects: [".NET-C#", "NinjaTrader"]
 URL: https://ninjatrader.com/support/helpGuides/nt8/?superdom_column.htm
 date: 2016-06-01
-tags: ["Fintech"]
+tags: ["fintech"]
 domain: ninjatrader.com
 ---
 

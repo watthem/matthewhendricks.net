@@ -30,12 +30,12 @@ module.exports = {
     {
       use: "@gridsome/source-filesystem",
       options: {
-        path: "cv/docs/*.md",
+        path: "resume/*.md",
         typeName: "Document",
         refs: {
           tags: {
             typeName: "Tag",
-            create: false,
+            create: true,
           },
         },
       },
@@ -43,12 +43,12 @@ module.exports = {
     {
       use: "@gridsome/source-filesystem",
       options: {
-        path: "cv/projects/**/*.md",
+        path: "projects/**/*.md",
         typeName: "Project",
         refs: {
           tags: {
             typeName: "Tag",
-            create: false,
+            create: true,
           },
         },
       },

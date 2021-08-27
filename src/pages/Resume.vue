@@ -8,16 +8,16 @@
 
     <div class="py-4">
       <h1 class="text-xl text-blue-800 mb-2">
-        Matthew's Work Portfolio
+        Matthew's Resume
       </h1>
     </div>
     <div class="py-4">
-      <h2 class="text-lg mb-2">Work history</h2>
+      <h2 class="text-lg mb-2">Professional Summary</h2>
 
       <div
-        class="max-w-sm mx-auto overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800"
+        class="mx-auto overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800"
       >
-        <g-link to="/cv/docs/resume/"
+        <g-link to="/docs/cv/"
           ><img
             class="object-cover object-center w-full h-56"
             src="https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80"
@@ -42,21 +42,20 @@
           </a>
 
           <h1 class="mx-3 text-lg font-semibold text-white">
-            <g-link to="/cv/docs/resume/">Matthew Hendricks</g-link>
+            <g-link to="/resume/cv/">Matthew Hendricks</g-link>
           </h1>
         </div>
 
         <div class="px-6 py-4">
-          <p class="py-2 text-gray-700 dark:text-gray-400">
-            <strong>Digital Business Analyst</strong> - experienced as a tech
-            writing consultant, product manager. A background in
-            financial-technical support.
-          </p>
+          <div class="py-2 text-gray-700 dark:text-gray-400">
+            <strong>{{ $page.allDocument.edges[0].node.subtitle }}</strong>
+            <p>{{ $page.allDocument.edges[0].node.description }}</p>
+          </div>
           <div class="mt-2 p-2">
             <g-link
               class="text-blue-500 cursor-pointer dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300"
-              to="/cv/docs/resume/"
-              >See details &rarr;</g-link
+              to="/resume/cv/"
+              >See full history &rarr;</g-link
             >
           </div>
           <div class="flex items-center mt-4 text-gray-700 dark:text-gray-200">
@@ -145,7 +144,8 @@ query {
         date (format: "D MMMM YYYY")
         path
         description
-       
+        title
+        subtitle
       }
     }
   }

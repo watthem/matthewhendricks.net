@@ -8,7 +8,7 @@ description: NinjaTrader provided a custom classes of programming interfaces tha
 subjects: [".NET-C#", "Multi-threaded programming", "DirectX"]
 URL: https://ninjatrader.com/support/helpGuides/nt8/?understanding_the_lifecycle_of.htm
 date: 2016-06-01
-tags: ["Fintech"]
+tags: ["fintech"]
 domain: ninjatrader.com
 ---
 

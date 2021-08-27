@@ -56,6 +56,15 @@ query Tags($path: String!) {
               title
             }
           }
+          ... on Document {
+            title
+            path
+            published
+            description
+            tags {
+              title
+            }
+          }
         }
       }
     }

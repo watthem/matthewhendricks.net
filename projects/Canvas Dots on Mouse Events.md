@@ -7,7 +7,7 @@ URL: https://codepen.io/watthem/pen/JbEYoz
 Featured: true
 company: Fun
 domain: codepen.com
-tags: ["front-end"]
+tags: ["front-end", "javascript"]
 cover_image: https://mscott.b-cdn.net/images/canvas.png
 date: 2016-11-18
 published: true

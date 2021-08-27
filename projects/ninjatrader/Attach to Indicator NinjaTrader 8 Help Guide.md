@@ -11,7 +11,7 @@ cover_image: https://mscott.b-cdn.net/images/attach.png
 date: 2015-05-28
 published: true
 domain: ninjatrader.com
-tags: ["Fintech", "technical-writing"]
+tags: ["fintech", "technical-writing"]
 ---
 
 ## Attach to Indicator

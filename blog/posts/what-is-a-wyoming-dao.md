@@ -3,7 +3,7 @@ cover_image: https://images.unsplash.com/photo-1562583275-c98e160346ab?ixlib=rb-
 expert: Similar to how we know some other states as tax headquarters for companies all over the world, soon Cheyenne Wyoming is about to have more block chain based companies.
 layout: article
 description: "(and how to form one for yourself.)"
-tags: ["Decentralization", "DAO", "Fintech"]
+tags: ["decentralization", "dao", "fintech"]
 title: "What is a Wyoming DAO?"
 published: true
 date: 2021-06-01T13:07:30

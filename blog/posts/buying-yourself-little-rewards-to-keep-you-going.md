@@ -10,7 +10,7 @@ cover_image: https://mscott.b-cdn.net/images/gifts.jpg
 date: 2019-02-26
 description: How does your routine bring motivation in your daily life, your goals, and fuel your desires?
 published: true
-tags: ["Mental Health"]
+tags: ["mental-health"]
 title: Buying yourself little rewards to keep you going
 ---
 

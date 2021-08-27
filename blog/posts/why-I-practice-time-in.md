@@ -12,7 +12,7 @@ cover_image: https://mscott.b-cdn.net/images/time-in.jpg
 date: 2019-12-24
 featured: true
 published: true
-tags: ["Mental Health"]
+tags: ["mental-health"]
 title: Why I practice time-in
 description: "Each day, I try to spend at least 1-hour of time to myself in moments I've learned to call Time-in."
 ---

@@ -4,15 +4,15 @@
       <h1 class="text-xl mb-2">All Projects and Articles</h1>
     </div>
     <div class="py-4">
-      <ul>
-        <li v-for="tag in $page.tags.edges" :key="tag.node.id">
+      <ul class="flex flex-wrap">
+        <li class="px-2" v-for="tag in $page.tags.edges" :key="tag.node.id">
           <g-link class="text-blue-500" :to="tag.node.path">
-            {{ tag.node.title }}</g-link
+            #{{ tag.node.title }}</g-link
           >
         </li>
       </ul>
     </div>
-    <div class="space-y-4">
+    <div class="py-4">
       <ArchiveFeedEverything
         v-for="edge in $page.posts.edges"
         :key="edge.node.id"

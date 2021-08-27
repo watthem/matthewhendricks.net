@@ -63,6 +63,17 @@ query {
         }
       }
     }
+  },
+  document_tags: allProject {
+    edges {
+      node {
+        tags {
+            title
+            path
+            id
+        }
+      }
+    }
   }
 }
 </static-query>

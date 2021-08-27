@@ -8,6 +8,6 @@ description: NinjaTrader 8 Charts used a .NET Library called SharpDX that worked
 subjects: ["DirectX"]
 URL: https://ninjatrader.com/support/helpGuides/nt8/?using_sharpdx_for_custom_chart_rendering.htm
 date: 2016-06-01
-tags: ["Fintech", "front-end"]
+tags: ["fintech", "front-end"]
 domain: ninjatrader.com
 ---

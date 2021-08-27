@@ -10,7 +10,7 @@ cover_image: https://mscott.b-cdn.net/images/ego.jpg
 date: 2018-10-18
 description: I think it's a good habit to keep yourself grounded; occasionally it's helpful to let go. Allowing yourself to disassociate, you can see thoughts & themes for what they are—separate from your defenses.
 published: true
-tags: ["Mental Health"]
+tags: ["mental-health"]
 title: Your Ego's End is an Honest Start
 ---
 

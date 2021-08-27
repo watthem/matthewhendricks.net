@@ -10,7 +10,7 @@ Built With: Confluence, Help+Manual, JIRA
 URL: https://ninjatrader.com/support/helpGuides/nt8/?ninjascript_best_practices.htm
 date: 2016-06-01
 Featured: true
-tags: ["Fintech"]
+tags: ["fintech"]
 domain: ninjatrader.com
 ---
 

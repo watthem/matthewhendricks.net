@@ -8,6 +8,6 @@ description: NinjaScript was event-driven and multi-threaded, which meant that 3
 subjects: [".NET-C#", "Multi-threaded programming", "NinjaTrader"]
 URL: https://ninjatrader.com/support/helpGuides/nt8/?multi-threading.htm
 date: 2016-06-01
-tags: ["Fintech"]
+tags: ["fintech"]
 domain: ninjatrader.com
 ---

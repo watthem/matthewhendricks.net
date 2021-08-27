@@ -3,7 +3,7 @@ title: Google Inbox Sun and Clouds
 Status: Completed
 description: An animated version of the image used in Google's Inbox zero inbox layout.
 URL: https://codepen.io/watthem/pen/xREydy
-tags: ["front-end"]
+tags: ["front-end", "css"]
 company: Codpen.io
 subjects: ["CSS3/HTML5"]
 cover_image: https://mscott.b-cdn.net/images/sun.png

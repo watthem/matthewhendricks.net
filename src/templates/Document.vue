@@ -1,24 +1,27 @@
 <template>
   <Layout>
     <div class="py-4">
-      <g-link class="text-blue-500" to="/resume/">&larr; Back to CV</g-link>
+      <g-link class="text-blue-500" to="/resume/"
+        >&larr; Back to summary</g-link
+      >
     </div>
     <div class="py-4">
       <h1 class="text-xl mb-2" v-html="$page.document.title" />
     </div>
     <!-- Back to Blog Button -->
-
+    <!-- Title + Date -->
+    <div class="my-6">
+      <p v-html="$page.document.date" class="text-gray-600" />
+      <hr class="my-2" />
+    </div>
     <div class="py-4">
       <!-- <img :src="$page.document.cover_image"> -->
-      <article class="document w-2/3 m-auto">
-        <!-- Title + Date -->
-        <div class="my-6">
-          <p v-html="$page.document.date" class="text-gray-600" />
-          <hr class="my-2" />
-        </div>
+      <article class="document leading-loose">
+        <h2 v-html="$page.document.subtitle" class="" />
 
-        <!-- content of document -->
-        <div v-html="$page.document.content" class="space-y-6" />
+        <div v-html="$page.document.description" class="" />
+
+        <div v-html="$page.document.content" class="py-6" />
       </article>
     </div>
   </Layout>
@@ -48,8 +51,9 @@ query Document ($path: String!) {
     id
     title
     content
+    description
     date (format: "D MMMM YYYY")
-
+    subtitle
   }
 }
 </page-query>
@@ -72,7 +76,7 @@ query Document ($path: String!) {
 }
 
 .document ul {
-  @apply list-disc;
+  @apply list-disc mx-10;
 }
 
 .document blockquote {

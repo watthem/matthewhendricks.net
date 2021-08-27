@@ -6,8 +6,8 @@ published: true
 cover_image: "/decentfinance.club.png"
 description: I host a small community powered by matrix.org.
 subjects: ["fintech", "matrix.org", "decentralization"]
-URL: https://www.decentfinance.club
+URL: http://decentfinance.club
 date: 2020-02-01
 domain: decentfinance.club
-tags: ["Fintech"]
+tags: ["fintech"]
 ---

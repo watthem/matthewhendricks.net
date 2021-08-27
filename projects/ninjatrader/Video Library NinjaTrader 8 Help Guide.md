@@ -8,6 +8,6 @@ description: One of the primary goals of the new NinjaTrader 8 help guide was to
 subjects: ["Day trading", "NinjaTrader"]
 URL: https://ninjatrader.com/support/helpGuides/nt8/?video_library.htm
 date: 2016-06-01
-tags: ["Fintech"]
+tags: ["fintech"]
 domain: ninjatrader.com
 ---

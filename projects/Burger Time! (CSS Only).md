@@ -9,7 +9,7 @@ published: true
 cover_image: https://mscott.b-cdn.net/images/burger.png
 domain: codepen.com
 subjects: ["CSS3/HTML5"]
-tags: ["front-end"]
+tags: ["front-end", "css"]
 title: Burger Time! (CSS Only)
 ---
 

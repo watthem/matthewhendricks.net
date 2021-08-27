@@ -69,11 +69,6 @@
 
         <ul class="p-8">
           <li class="p-2">
-            <g-link class="text-blue-500 underline" to="/resume/"
-              >View my résumé</g-link
-            >
-          </li>
-          <li class="p-2">
             <g-link class="text-blue-500 underline" to="/work/"
               >See my work examples</g-link
             >

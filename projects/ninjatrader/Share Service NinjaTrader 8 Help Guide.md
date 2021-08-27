@@ -8,7 +8,7 @@ description: NinjaTrader version 8 introduced a new class of objects that could 
 subjects: [".NET-C#", "NinjaTrader"]
 URL: https://ninjatrader.com/support/helpGuides/nt8/?share_service.htm
 date: 2016-06-01
-tags: ["Fintech"]
+tags: ["fintech"]
 domain: ninjatrader.com
 ---
 

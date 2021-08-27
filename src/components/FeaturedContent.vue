@@ -1,14 +1,12 @@
 <template lang="html">
-  <section class="featured">
-    <h2 class="text-3xl font-bold text-gray-800 dark:text-gray-100">
+  <section class="featured ">
+    <h2 class="text-3xl font-bold text-gray-800 ">
       Featured Content
     </h2>
 
-    <div
-      class="dark:bg-blue-800 lg:py-12 lg:flex my-5 shadow lg:justify-center"
-    >
+    <div class="lg:py-12 lg:flex my-5 shadow lg:justify-center">
       <div
-        class="bg-white dark:bg-gray-800 lg:mx-8 lg:flex lg:max-w-5xl lg:shadow-lg lg:rounded-lg"
+        class="bg-white lg:mx-8 lg:flex lg:max-w-5xl lg:shadow-lg lg:rounded-lg"
       >
         <div class="lg:w-1/2">
           <div
@@ -18,15 +16,11 @@
         </div>
 
         <div class="px-6 py-12 max-w-5xl w-1/2">
-          <h2
-            class="text-2xl font-bold text-gray-800 dark:text-white md:text-3xl"
-          >
+          <h2 class="text-2xl font-bold text-gray-800">
             Programming guides and reference resources for
-            <span class="text-blue-600 dark:text-blue-400"
-              >Fintech developers</span
-            >
+            <span class="text-purple-600">Fintech developers</span>
           </h2>
-          <p class="mt-4 text-gray-600 dark:text-gray-400">
+          <p class="mt-4 text-gray-600">
             I wrote developer friendly software documentation for an online
             trading platform. Retail investors rely on the interoperable and
             customization of this platform for discretionary and automated
@@ -42,11 +36,9 @@
         </div>
       </div>
     </div>
-    <div
-      class="dark:bg-blue-800 lg:py-12 my-5 shadow  lg:flex lg:justify-center"
-    >
+    <div class="lg:py-12 my-5 shadow  lg:flex lg:justify-center">
       <div
-        class="bg-white dark:bg-gray-800 lg:mx-8 lg:flex lg:max-w-5xl lg:shadow-lg lg:rounded-lg"
+        class="bg-white lg:mx-8 lg:flex lg:max-w-5xl lg:shadow-lg lg:rounded-lg"
       >
         <div class="lg:w-1/2">
           <div
@@ -56,15 +48,11 @@
         </div>
 
         <div class="px-6 py-12 max-w-5xl w-1/2">
-          <h2
-            class="text-2xl font-bold text-gray-800 dark:text-white md:text-3xl"
-          >
+          <h2 class="text-2xl font-bold text-gray-800 md:text-3xl">
             NetGauge to Speedtest Custom (legacy Flash to HTML5)
-            <span class="text-blue-600 dark:text-blue-400"
-              >client migration</span
-            >
+            <span class="text-purple-600 ">client migration</span>
           </h2>
-          <p class="mt-4 text-gray-600 dark:text-gray-400">
+          <p class="mt-4 text-gray-600 ">
             Ookla—the team behind Speedtest.net—also offers an enterprise
             version of their flagship software used to measure network
             performance between a client and server. During the transition from
@@ -83,11 +71,9 @@
         </div>
       </div>
     </div>
-    <div
-      class="dark:bg-blue-800 lg:py-12 my-5 shadow  lg:flex lg:justify-center"
-    >
+    <div class="lg:py-12 my-5 shadow  lg:flex lg:justify-center">
       <div
-        class="bg-white dark:bg-gray-800 lg:mx-8 lg:flex lg:max-w-5xl lg:shadow-lg lg:rounded-lg"
+        class="bg-white lg:mx-8 lg:flex lg:max-w-5xl lg:shadow-lg lg:rounded-lg"
       >
         <div class="lg:w-1/2">
           <div
@@ -97,13 +83,11 @@
         </div>
 
         <div class="px-6 py-12 max-w-5xl w-1/2">
-          <h2
-            class="text-2xl font-bold text-gray-800 dark:text-white md:text-3xl"
-          >
-            A Decentralized
-            <span class="text-blue-600 dark:text-blue-400">community</span>
+          <h2 class="text-2xl font-bold text-gray-800  md:text-3xl">
+            <span class="text-purple-600 ">Decentralized</span> message
+            protocols
           </h2>
-          <p class="mt-4 text-gray-600 dark:text-gray-400">
+          <p class="mt-4 text-gray-600 ">
             I've been unemployed since COVID, but I'm busy hosting a private
             fintech community powered by matrix.org
           </p>

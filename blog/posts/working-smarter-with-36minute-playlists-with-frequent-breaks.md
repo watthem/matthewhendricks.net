@@ -5,7 +5,7 @@ Modified: 2021-06-23T11:03:37
 Stage: #Editing
 Status: #Doing
 author: Matthew Hendricks
-tags: ["Productivity"]
+tags: ["productivity"]
 Type: Article
 cover_image: https://images.unsplash.com/photo-1496942299866-9e7ab403e614?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80
 featured: false

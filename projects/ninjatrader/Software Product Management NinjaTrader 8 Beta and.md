@@ -8,7 +8,7 @@ description: I was promoted to Product Manager after working as a technical supp
 subjects: ["NinjaTrader"]
 URL: https://ninjatrader.com/support/helpGuides/nt8/beta_release_notes.htm
 date: 2016-06-01
-tags: ["Fintech"]
+tags: ["fintech"]
 domain: ninjatrader.com
 ---
 

@@ -9,7 +9,7 @@ subjects: [".NET-C#", "NinjaTrader"]
 URL: https://ninjatrader.com/support/helpGuides/nt8/?working_with_pixel_coordinates.htm
 PDF: ""
 date: 2016-06-01
-tags: ["Fintech", "front-end"]
+tags: ["fintech", "front-end"]
 domain: ninjatrader.com
 ---
 

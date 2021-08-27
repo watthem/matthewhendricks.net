@@ -6,7 +6,7 @@ Built_With: CSS, HTML
 Technology Used: Responsive Web Design, CSS transitions
 URL: https://codepen.io/watthem/pen/RoZjPy
 Featured: true
-tags: ["front-end"]
+tags: ["front-end", "css3"]
 company: Fun
 subjects: ["CSS3/HTML5"]
 domain: codepen.io

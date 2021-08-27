@@ -1,7 +1,7 @@
 ---
 description: There are two mirrors that everyone holds. One mirror is depicting of admiration and encouragement. And the other mirror is a distorted echo of judgment and critique.
 status: Feedback
-tags: ["Mental Health"]
+tags: ["mental-health"]
 title: "From a Funhouse of Mirrors: Finding Your Way in the World"
 published: true
 featured: false

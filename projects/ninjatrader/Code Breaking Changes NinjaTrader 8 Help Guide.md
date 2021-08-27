@@ -11,6 +11,6 @@ URL: https://ninjatrader.com/support/helpGuides/nt8/en-us/code_breaking_changes.
 canonical_url: false
 cover_image: https://mscott.b-cdn.net/images/code.png
 date: 2015-05-28
-tags: ["Fintech"]
+tags: ["fintech"]
 domain: ninjatrader.com
 ---

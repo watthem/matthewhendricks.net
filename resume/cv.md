@@ -1,17 +1,14 @@
 ---
-title: Matthew Hendricks' CV and Resume
-description: "Digital Business Analyst. Experienced tech writer/product manager with background in financial-technical support."
+title: Matthew S. Hendricks - CV and Resume
+subtitle: Digital Business Analyst
+description: "Technical generalist with over a decade of experience supporting financial technologies and an excellent reputation for resolving problems while improving customer satisfaction."
 date: 2021-06-24
 featured: true
 published: true
 domain: matthewhendricks.net
 company: Resume
-tags: ["Work history"]
+tags: ["work-history", "resume"]
 ---
-
-## Matthew S. Hendricks - Digital Business Analyst
-
-Tech Writer | Product Manager | Financial Service Engineer
 
 - **Address**: Seattle WA, 98125
 - **Cell Phone**: 307-223-8744
@@ -19,11 +16,9 @@ Tech Writer | Product Manager | Financial Service Engineer
 - **Email**: matthew.scott.hendricks@gmail.com
 - **Portfolio**: [matthewhendricks.net/work/](https://www.matthewhendricks.net/work/)
 
-Technical generalist with over a decade of experience supporting financial technologies and an excellent reputation for resolving problems while improving customer satisfaction.
+## Work History
 
 > "I bring value with a blend of traditional finance and modern programming concepts with record of producing interactive digital work using knowledge of content management systems and DevOps workflows."
-
-## Work History
 
 ### Apex Systems LLC
 
