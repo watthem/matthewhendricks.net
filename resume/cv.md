@@ -1,24 +1,36 @@
 ---
 title: Matthew S. Hendricks - CV and Resume
+
 subtitle: Digital Business Analyst
+
 description: "Technical generalist with over a decade of experience supporting financial technologies and an excellent reputation for resolving problems while improving customer satisfaction."
+
 date: 2021-06-24
+
 featured: true
+
 published: true
+
 domain: matthewhendricks.net
+
 company: Resume
+
 tags: ["work-history", "resume"]
 ---
 
 - **Address**: Seattle WA, 98125
+
 - **Cell Phone**: 307-223-8744
+
 - **Home Phone**: 206-446-5495
+
 - **Email**: matthew.scott.hendricks@gmail.com
+
 - **Portfolio**: [matthewhendricks.net/work/](https://www.matthewhendricks.net/work/)
 
 ## Work History
 
-> "I bring value with a blend of traditional finance and modern programming concepts with record of producing interactive digital work using knowledge of content management systems and DevOps workflows."
+> "I bring value with a blend of traditional finance and modern programming concepts with a record of producing digital work using knowledge of interactive content management systems and DevOps workflows."
 
 ### Apex Systems LLC
 
@@ -28,15 +40,15 @@ Seattle, WA
 
 March 2020 - May 2020 (Covid-19)
 
-- Authored, edited, standardized, and changed material prepared by other writers on topics of team on-boarding, compliance, and standard operating procedures for audience of 20,000 support members.
+- Cooperatively authored, edited, standardized, and changed content prepared by other writers on topics of team on-boarding, compliance, and standard operating procedures for an audience of 20,000 support members.
 
-- Organized subjects and completed writing assignments with team of 3 technical writers according to set standards regarding order, clarity, conciseness, style, and terminology following style guides.
+- Established new subjects and completed writing assignments with a team of 3 technical writers according to set standards regarding order, clarity, conciseness, style and terms following style guides.
 
-- Maintained topics of work and revisions using Git version control, Markdown, HTML, and published in Azure DevOps Wiki.
+- Accurately maintained topics of work and revisions using Git version control, Markdown, HTML, and published in Azure DevOps Wiki.
 
 - Met daily with vendors, program managers, and engineers to understand technical specifications and to decide on subject material developed for publication.
 
-- Observed production, developmental, and experimental activities to document operating procedures related to new remote work policies because of COVID-19.
+- Thoroughly observed production, developmental, and experimental activities to document operating procedures related to new remote work policies because of COVID-19.
 
 - Interviewed production and engineering personnel and read other documentation to become familiar with product technologies and production methods.
 
@@ -50,17 +62,17 @@ Seattle, WA
 
 April 2019 - Dec 2019
 
-- Maintained library of 50 process documents including templates, images and videos for Workforce Management team's business intelligence operations.
+- Took ownership of library of 50 process documents including templates, images and videos for Workforce Management team's business intelligence operations.
 
-- Documented processes and procedures for business intelligence reports, employee scorecards, management dashboards, and formulas for KPIs (Key performance indicators).
+- Steadily documented processes and procedures for business intelligence reports, employee scorecards, executive dashboards, and underlying formulas for KPIs (Key performance indicators).
 
-- Maintained and updated documentation tools, databases, dashboards, and team standards.
+- Maintained and updated documentation tools, databases, dashboards and team standards.
 
-- Managed prompt flow of project management information to team of stakeholders and subject matter experts.
+- Managed prompt flow of project management information to a team of stakeholders and subject matter experts.
 
 - Created and reviewed technical documentation to ensure accuracy in ongoing development of reporting solutions.
 
-- Reviewed and published materials while recommending improvements or changes in scope, format, content, and methods.
+- Reviewed and published materials while recommending improvements or changes in scope, format, content and methods.
 
 ### Ookla
 
@@ -78,9 +90,9 @@ April 2017 - December 2018
 
 - Coordinated with vendors and company personnel, including legal and corporate business entities during document and business contract management.
 
-- Contributed to support and sales email templates and end-user documentation using ZenDesk, which resulted in a reduction of first response time by 100% in first 6 months.
+- Contributed to support and sales email templates and end-user documentation using ZenDesk, rudicing first response time by 100% in first 6 months.
 
-- Built custom Chrome extension using Javascript, Vue.js, and custom MongoDB to help bridge needs between multiple CRM tools.
+- Built a Chrome extension using Javascript, Vue.js, and custom JSON RPCs to help staff bridge needs between multiple CRM tools.
 
 ### NinjaTrader Group LLC
 
@@ -92,11 +104,11 @@ March 2013 - December 2016
 
 - Managed product development cycle for Algorithmic trading product including prototyping designs, quality testing, documentation, and coordinating mass production.
 
-- Deployed enhanced product features and optimized implementation for use in trading strategies including Cryptocurrency, Forex, Futures, Stocks, and other commodities.
+- Deployed enhanced product features and optimized implementation for trading strategies, including Cryptocurrency, Forex, Futures, Stocks, and other commodities.
 
 - Communicated with staff, partners, and customers to understand specific system requirements for development of a C# desktop application.
 
-- Documented design specifications, installation and end-user operational instructions, and developer documentation for custom .NET library.
+- Documented design specifications, installation and end-user operational instructions, and developer documentation for public .NET library.
 
 - Contributed core product C# code updates in Git repository, JIRA, and Visual Studio IDE while publishing technical content for audience of customers.
 
@@ -134,45 +146,76 @@ Completed Coursework Towards Associate in Science
 
 ## Skills
 
+- API Documentation
+
 - Algorithmic Trading
-- Blockchain technology
+
+- Blockchain and Digital Ledger Technologies
+
 - Cardano Network
-- Customer Support and PR
-- Code writing
-- Cryptocurrency financial analysis
-- Cryptography
+
+- Customer Support, Community Management and PR
+
+- Code reviews
+
+- Financial analysis
+
 - Decentralized applications
-- Ethereum Network
+
 - Financial technology deployment
-- Harmony Network
+
 - Instruction writing
+
 - Leadership
+
 - Product development
+
 - Project Management
+
 - Secure software development
+
 - Smart Contract Design and Development
+
 - Solution development
+
 - Technical Analysis
+
 - Technical Writing
-- Technical Research
+
+- Marketing Research
+
 - Training & Development
+
 - Web development
 
 ### Software
 
 - C#
-- CSS
+
 - Cardano Plutus Core
+
 - Chainlink Hybrid smart contracts
+
 - Ethereum Solitary
-- HTML
+
+- Ethereum Network
+
+- Harmony Network
+
+- HTML and CSS
+
 - Javascript
+
 - Linux (client and server)
+
 - Markdown
+
 - Python
+
 - Ruby
+
 - Windows
 
 ## Interests
 
-Cryptocurrency, Meditation, Running, Personal Development, Behavioral Psychology and Neuroscience
+Ask me about Cryptocurrencies, Meditation, Running, Personal Development, Behavioral Psychology or Neuroscience, or Child Development
