@@ -218,4 +218,4 @@ Completed Coursework Towards Associate in Science
 
 ## Interests
 
-Ask me about Cryptocurrencies, Meditation, Running, Personal Development, Behavioral Psychology or Neuroscience, or Child Development
+Ask me about Cryptocurrencies, Meditation, Running, Personal Development, Behavioral Psychology, Neuroscience, or Child Development
