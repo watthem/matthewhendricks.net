@@ -55,7 +55,7 @@
             <g-link
               class="text-blue-500 cursor-pointer dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300"
               to="/resume/cv/"
-              >See resume &rarr;</g-link
+              >👍 See my resume &rarr;</g-link
             >
 
             <ul>
