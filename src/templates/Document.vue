@@ -15,7 +15,7 @@
       <article class="document leading-loose">
         <h2 v-html="$page.document.subtitle" class="" />
         <hr />
-        <div v-html="$page.document.description" class="" />
+        <blockquote v-html="$page.document.description" class="" />
 
         <div v-html="$page.document.content" class="py-6" />
       </article>
@@ -77,6 +77,6 @@ query Document ($path: String!) {
 
 .document blockquote {
   font-style: italic;
-  @apply text-lg border-l-2 px-2 border-gray-400 italic text-gray-700;
+  @apply text-lg border-l-2 px-2 m-2 border-gray-400 italic text-gray-700;
 }
 </style>

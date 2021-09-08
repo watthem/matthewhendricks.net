@@ -1,7 +1,9 @@
 <template>
   <section class="container">
     <div class="sm:w-1/2 w-full m-auto md:w-full sm:m-1 py-10 sm:text-left">
-      <img class="w-full md:w-2/3 lg:w-1/3 shadow" src="/hero.svg" />
+      <g-link to="/about/"
+        ><img class="w-full md:w-2/3 lg:w-1/3 shadow" src="/hero.svg"
+      /></g-link>
 
       <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
         Writer, Technician, Manager

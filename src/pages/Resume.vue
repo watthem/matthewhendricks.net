@@ -17,7 +17,7 @@
       <div
         class="mx-auto overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800"
       >
-        <g-link to="/docs/cv/"
+        <g-link to="/resume/cv/"
           ><img
             class="object-cover object-center w-full h-56"
             src="https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80"
@@ -55,8 +55,33 @@
             <g-link
               class="text-blue-500 cursor-pointer dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300"
               to="/resume/cv/"
-              >See full history &rarr;</g-link
+              >See resume &rarr;</g-link
             >
+
+            <ul>
+              <li class="mt-2 p-2">
+                <button
+                  class="bg-transparent text-xs hover:bg-blue-100 font-semibold py-2 px-4 border border-blue-500 hover:border-transparent rounded"
+                >
+                  <a
+                    class="text-blue-500 cursor-pointer dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300"
+                    href="/Matthew_Hendricks-CV.pdf"
+                    >Download as .PDF &darr;</a
+                  >
+                </button>
+              </li>
+              <li class="mt-2 p-2">
+                <button
+                  class="bg-transparent text-xs hover:bg-blue-100 font-semibold py-2 px-4 border border-blue-500 hover:border-transparent rounded"
+                >
+                  <a
+                    class="text-blue-500 cursor-pointer dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300"
+                    href="/Matthew_Hendricks-CV.docx"
+                    >Download as .DOCX &darr;</a
+                  >
+                </button>
+              </li>
+            </ul>
           </div>
           <div class="flex items-center mt-4 text-gray-700 dark:text-gray-200">
             <svg
@@ -126,7 +151,9 @@
               />
             </svg>
 
-            <h1 class="px-2 text-sm">contact@matthewhendricks.net</h1>
+            <a href="mailto:contact@matthewhendricks.net" class="px-2 text-sm"
+              >contact@matthewhendricks.net</a
+            >
           </div>
         </div>
       </div>

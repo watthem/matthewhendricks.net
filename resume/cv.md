@@ -1,11 +1,11 @@
 ---
-title: Matthew S. Hendricks - CV and Resume
+title: Matthew Hendricks - Resume
 
 subtitle: Digital Business Analyst
 
-description: "Technical generalist with over a decade of experience supporting financial technologies and an excellent reputation for resolving problems while improving customer satisfaction."
+description: "Highly motivated and results-driven technical professional with ability to manage the full spectrum of financial technology with an excellent reputation for resolving problems while improving customer satisfaction. Possess rich knowledge of hands-on traditional finance, modern programming concepts and content management systems."
 
-date: 2021-06-24
+date: 2021-09-07
 
 featured: true
 
@@ -18,204 +18,73 @@ company: Resume
 tags: ["work-history", "resume"]
 ---
 
-- **Address**: Seattle WA, 98125
+[contact@matthewhendricks.net](mailto:contact@matthewhendricks.net) ∙ 206-446-5495 ∙ Seattle, WA 98125
 
-- **Cell Phone**: 307-223-8744
+## QUALIFICATIONS SUMMARY
 
-- **Home Phone**: 206-446-5495
+---
 
-- **Email**: matthew.scott.hendricks@gmail.com
+### Technical Writing
 
-- **Portfolio**: [matthewhendricks.net/work/](https://www.matthewhendricks.net/work/)
+- Solid capacity to deliver industry-leading innovation. Demonstrates high proficiency with traditional and trending concepts including blockchain technology and smart contracts.
+- See writing examples at [matthewhendricks.net/work](https://matthewhendricks.net/work/)
 
-## Work History
+### Technical Support Leadership
 
-> "I bring value with a blend of traditional finance and modern programming concepts with a record of producing digital work using knowledge of interactive content management systems and DevOps workflows."
+- Adept at achieving operational excellence that requires creativity and meticulous organizational skills, and the ability to simultaneously manage multiple tasks.
+- Proudly contributes to all workflow processes and imprints own expertise while growing in responsibility.
 
-### Apex Systems LLC
+### Services Management
 
-Seattle, WA
+- Recognized for positive attitude and commitment to service excellence with experience in coordinating effectively with senior management and staff members.
 
-#### Technical Writer
+### Product Management
 
-March 2020 - May 2020 (Covid-19)
+- Collaborative communicator, building relationships across the organization to drive positive change.
+  Strong attention to detail with the proven ability to provide clear, concise, and professional services/products.
 
-- Cooperatively authored, edited, standardized, and changed content prepared by other writers on topics of team on-boarding, compliance, and standard operating procedures for an audience of 20,000 support members.
+## EXPERIENCE HIGHLIGHTS
 
-- Established new subjects and completed writing assignments with a team of 3 technical writers according to set standards regarding order, clarity, conciseness, style and terms following style guides.
+---
 
-- Accurately maintained topics of work and revisions using Git version control, Markdown, HTML, and published in Azure DevOps Wiki.
-
-- Met daily with vendors, program managers, and engineers to understand technical specifications and to decide on subject material developed for publication.
-
-- Thoroughly observed production, developmental, and experimental activities to document operating procedures related to new remote work policies because of COVID-19.
-
-- Interviewed production and engineering personnel and read other documentation to become familiar with product technologies and production methods.
-
-- Analyzed developments in specific subjects to estimate need for revisions in published materials and development of new material.
-
-### AIM Consulting Group LLC
-
-Seattle, WA
-
-#### Tech Writer Business Analyst
-
-April 2019 - Dec 2019
-
-- Took ownership of library of 50 process documents including templates, images and videos for Workforce Management team's business intelligence operations.
-
-- Steadily documented processes and procedures for business intelligence reports, employee scorecards, executive dashboards, and underlying formulas for KPIs (Key performance indicators).
-
-- Maintained and updated documentation tools, databases, dashboards and team standards.
-
-- Managed prompt flow of project management information to a team of stakeholders and subject matter experts.
-
-- Created and reviewed technical documentation to ensure accuracy in ongoing development of reporting solutions.
-
-- Reviewed and published materials while recommending improvements or changes in scope, format, content and methods.
-
-### Ookla
-
-Seattle, WA
+### Ookla, Seattle, WA 2017-2018
 
 #### Technical Services Manager
 
-April 2017 - December 2018
+Gained invaluable knowledge and experience in full spectrum of technical writing, such as technical documentation, communication with a diverse set of teams, process improvement, developing superb communication skills, sharpened knowledge of Javascript, web technologies and highly analytical approach to workflows. Provided administrative support to areas outside of assigned work.
 
-- Met with network engineers about how to solve existing system problems related to Linux and Windows server distribution.
+- Developed strong capability to handle challenging tasks while working independently to achieve the goals of the organization.
+- Ability to ensure seamless running of technical writing operations and proactively resolved issues, taking full ownership of new challenges.
 
-- Supervised team of 3 technical services representatives responsible for pre-sales, on-boarding, and inbound customer support for 1200 Speedtest.net enterprise clients.
+## PRIOR EXPERIENCE
 
-- Assisted in technical administration and support of Ookla’s global network of Speedtest servers.
+Additional experience Ninja Trader Group LLC as **Product Manager** and **Technical Support Lead**, AIM Consulting Group LLC as **Technical Writer Business Analyst**, Apex Systems LLC as **Technical Writer**.
 
-- Coordinated with vendors and company personnel, including legal and corporate business entities during document and business contract management.
+## EDUCATION AND IN-DEMAND SKILL SETS
 
-- Contributed to support and sales email templates and end-user documentation using ZenDesk, rudicing first response time by 100% in first 6 months.
+---
 
-- Built a Chrome extension using Javascript, Vue.js, and custom JSON RPCs to help staff bridge needs between multiple CRM tools.
+### General Education, Laramie County Community College (Cheyenne, WY)
 
-### NinjaTrader Group LLC
+---
 
-Denver, CO
+`Blockchain Technology`, `Code Writing`, `Cryptography`, `Cryptocurrency Financial Analysis`, `Decentralized Applications/DAOs`, `Smart Contract Design/Development`, `Project Management`, `Full Spectrum Solution Development`, `Technical Writing`, `Customer Support`, `High Quality Development`, `Effective Collaboration and Communicator`.
 
-#### Product Manager
+## TRAINING
 
-March 2013 - December 2016
-
-- Managed product development cycle for Algorithmic trading product including prototyping designs, quality testing, documentation, and coordinating mass production.
-
-- Deployed enhanced product features and optimized implementation for trading strategies, including Cryptocurrency, Forex, Futures, Stocks, and other commodities.
-
-- Communicated with staff, partners, and customers to understand specific system requirements for development of a C# desktop application.
-
-- Documented design specifications, installation and end-user operational instructions, and developer documentation for public .NET library.
-
-- Contributed core product C# code updates in Git repository, JIRA, and Visual Studio IDE while publishing technical content for audience of customers.
-
-- Composed release notes for various releases (14 beta, 2 release candidates, and 1 major version) while prioritizing website updates for consumer-focused technical documentation.
-
-- Consulted with product development teams to enhance product documentation priorities by customer data.
-
-#### Technical Support Lead
-
-May 2010 - March 2013
-
-- Managed customer support team with 20 support representatives
-
-- Led weekly staff meetings, developed and implemented training initiatives for new hires, and documented standards to team in evaluating user problems, using test scripts, personal expertise and probing questions.
-
-- Studied and self-taught C# which led to several subsequent promotions.
-
-- Performed regression tests before final product releases and for internal QA activities.
-
-- Built custom employee scorecard dashboard using REST API and Ruby on Rails.
-
-- Assessed system hardware and software and suggested modifications to reduce lag time and improve overall speed.
-
-- Worked with software development team on reported errors and bugs on newly released software and assisted in deployment of release fixes.
-
-## Education
-
-### Laramie County Community College
-
-Cheyenne, WY
-
-#### General Psychology
-
-Completed Coursework Towards Associate in Science
-
-## Skills
-
-- API Documentation
-
-- Algorithmic Trading
-
-- Blockchain and Digital Ledger Technologies
-
-- Cardano Network
-
-- Customer Support, Community Management and PR
-
-- Code reviews
-
-- Financial analysis
-
-- Decentralized applications
-
-- Financial technology deployment
-
-- Instruction writing
-
-- Leadership
-
-- Product development
-
-- Project Management
-
-- Secure software development
-
-- Smart Contract Design and Development
-
-- Solution development
-
-- Technical Analysis
-
-- Technical Writing
-
-- Marketing Research
-
-- Training & Development
-
-- Web development
-
-### Software
-
-- C#
-
-- Cardano Plutus Core
-
-- Chainlink Hybrid smart contracts
-
-- Ethereum Solitary
-
-- Ethereum Network
-
-- Harmony Network
-
-- HTML and CSS
+---
 
 - Javascript
-
-- Linux (client and server)
-
-- Markdown
-
+- Blockchain Technology
+- Ethereum Network
+- Chinlink Hybrid Smart Contracts
 - Python
-
 - Ruby
-
+- Markdown
+- Solidity
+- Cardano Plutus Core
+- Ethereum Solitary
+- HTML
+- Linux
 - Windows
-
-## Interests
-
-Ask me about Cryptocurrencies, Meditation, Running, Personal Development, Behavioral Psychology, Neuroscience, or Child Development
+- Google Suite
