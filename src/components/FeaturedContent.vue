@@ -15,7 +15,7 @@
           ></div>
         </div>
 
-        <div class="px-6 py-12 max-w-5xl w-1/2">
+        <div class="lg:w-full px-6 py-12">
           <h2 class="text-2xl font-bold text-gray-800">
             Programming guides and reference resources for
             <span class="text-gray-600">Fintech developers</span>
@@ -47,7 +47,7 @@
           ></div>
         </div>
 
-        <div class="px-6 py-12 max-w-5xl w-1/2">
+        <div class="lg:w-full px-6 py-12">
           <h2 class="text-2xl font-bold text-gray-800 md:text-3xl">
             NetGauge to Speedtest Custom (legacy Flash to HTML5)
             <span class="text-gray-600 ">client migration</span>
@@ -82,6 +82,7 @@ export default {
 <style>
 .sparkle-link {
   text-align: right;
+  overflow-wrap: break-word;
 }
 .sparkle-link:before,
 .sparkle-link:after {

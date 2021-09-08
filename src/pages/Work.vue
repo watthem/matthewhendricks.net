@@ -9,7 +9,8 @@
       <h1 class="text-xl text-blue-800 mb-2">Matthew's Work Examples</h1>
     </div>
     <div class="py-4">
-      <h2 class="text-lg mb-2">Resume Projects</h2>
+      <FeaturedContent></FeaturedContent>
+      <h2 class="text-lg mb-2">All Projects</h2>
       <div class="flex flex-wrap m-auto">
         <ResumeFeedProject
           v-for="edge in $page.allProject.edges"
@@ -48,11 +49,13 @@ query {
 <script>
 import ResumeFeedProject from "@/components/ResumeFeedProject";
 import SocialIcons from "@/components/SocialIcons";
+import FeaturedContent from "../components/FeaturedContent.vue";
 
 export default {
   components: {
     ResumeFeedProject,
     SocialIcons,
+    FeaturedContent,
   },
   metaInfo: {
     title: "Blog",
