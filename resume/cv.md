@@ -64,11 +64,13 @@ Additional experience Ninja Trader Group LLC as **Product Manager** and **Techni
 
 ---
 
-### General Education, Laramie County Community College (Cheyenne, WY)
+### General Education
 
----
+- Laramie County Community College (Cheyenne, WY)
 
-`Blockchain Technology`, `Code Writing`, `Cryptography`, `Cryptocurrency Financial Analysis`, `Decentralized Applications/DAOs`, `Smart Contract Design/Development`, `Project Management`, `Full Spectrum Solution Development`, `Technical Writing`, `Customer Support`, `High Quality Development`, `Effective Collaboration and Communicator`.
+### Technology
+
+`Digital Ledger Technology`, `Web Development`, `Cryptography`, `Cryptocurrency Financial Analysis`, `Decentralized Applications/DAOs`, `Smart Contract Design/Development`, `Project Management`, `Full Spectrum Solution Development`, `Technical Writing`, `Customer Support`, `High Quality Development`, `Effective Collaboration and Communicator`.
 
 ## TRAINING
 
@@ -88,3 +90,12 @@ Additional experience Ninja Trader Group LLC as **Product Manager** and **Techni
 - Linux
 - Windows
 - Google Suite
+
+---
+
+<div class="w-full m-auto py-4" >
+<button
+class="bg-transparent p-2 text-xs hover:bg-blue-100 font-semibold py-2 px-4 border border-blue-500 hover:border-transparent rounded"> <a class="text-blue-500 cursor-pointer dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300" href="/Matthew_Hendricks-CV.pdf">Download as .PDF &darr;</a></button>
+<button class="bg-transparent p-2 text-xs hover:bg-blue-100 font-semibold py-2 px-4 border border-blue-500 hover:border-transparent rounded">
+<a class="text-blue-500 cursor-pointer dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300" href="/Matthew_Hendricks-CV.docx">Download as .DOCX &darr;</a>
+</button>
