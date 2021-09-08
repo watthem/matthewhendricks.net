@@ -12,24 +12,31 @@
         </li>
       </ul>
     </div>
-    <div class="py-4">
-      <h2 class="text-lg mb-2">Blog posts</h2>
+   
+   <div class="py-4">
+      <details class="py-4">
+      <summary class="">
+      <h2 class="text-lg underline">Blog posts</h2>
+      </summary>
       <ArchiveFeedEverything
         v-for="edge in $page.posts.edges"
         :key="edge.node.id"
         :post="edge.node"
       />
-    </div>
-    <div class="py-4">
-      <h2 class="text-lg mb-2">Work Projects</h2>
-      <div class="py-4">
+      </details>
+    
+  
+      <details class="py-4">
+      <summary>
+      <h2 class="text-lg underline ">Work Projects</h2></summary>
+    
         <ArchiveFeedEverything
           v-for="edge in $page.projects.edges"
           :key="edge.node.id"
           :post="edge.node"
-        />
-      </div>
-    </div>
+        /></details>
+  </div>
+</div>
   </Layout>
 </template>
 
