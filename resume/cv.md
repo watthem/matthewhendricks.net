@@ -77,7 +77,7 @@ Additional experience Ninja Trader Group LLC as **Product Manager** and **Techni
 - Javascript
 - Blockchain Technology
 - Ethereum Network
-- Chinlink Hybrid Smart Contracts
+- Chainlink Hybrid Smart Contracts
 - Python
 - Ruby
 - Markdown
