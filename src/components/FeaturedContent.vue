@@ -22,9 +22,9 @@
           </h2>
           <p class="mt-4 text-gray-600">
             I wrote developer friendly software documentation for an online
-            trading platform. Thousands of commodities and currencies traders
-            rely on the interoperability and customization of this .NET/C#
-            platform for their discretionary and automated trading needs.
+            trading platform. Thousands of commodity and currency traders rely
+            on the interoperability and customization of this .NET/C# platform
+            for their discretionary and automated trading needs.
           </p>
           <div class="mt-8">
             <g-link
