@@ -51,10 +51,11 @@ tags: ["work-history", "resume"]
 
 #### Technical Services Manager
 
-Gained invaluable knowledge and experience in full spectrum of technical writing, such as technical documentation, communication with a diverse set of teams, process improvement, developing superb communication skills, sharpened knowledge of Javascript, web technologies and highly analytical approach to workflows. Provided administrative support to areas outside of assigned work.
+Gained invaluable knowledge and experience in full spectrum of technical writing, such as technical documentation, communication with a diverse set of teams, process improvement, developing superb communication skills, sharpened knowledge of Javascript, web technologies and highly analytical approach to workflows.
 
 - Developed strong capability to handle challenging tasks while working independently to achieve the goals of the organization.
 - Ability to ensure seamless running of technical writing operations and proactively resolved issues, taking full ownership of new challenges.
+- Provided administrative support to areas outside of assigned work.
 
 ## PRIOR EXPERIENCE
 
