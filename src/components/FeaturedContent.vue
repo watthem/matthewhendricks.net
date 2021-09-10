@@ -55,7 +55,7 @@
           <p class="mt-4 text-gray-600 ">
             Ookla—the team behind Speedtest.net—offer an enterprise version of
             their flagship software that I helped support.<br />
-            I lead a small team of technical service contractors to assist with
+            I led a small team of technical service contractors to assist with
             the increased workload from the transition from their legacy Adobe
             Flash client to new web APIs.
           </p>
