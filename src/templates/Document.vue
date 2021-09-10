@@ -87,4 +87,8 @@ query Document ($path: String!) {
   left: 10px;
   top: -10px;
 }
+
+.document code {
+  color: palevioletred;
+}
 </style>
