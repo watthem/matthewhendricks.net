@@ -56,16 +56,17 @@ query Document ($path: String!) {
 
 <style>
 /* Apply Global document Article Styles Here */
+
 .document h2 {
-  @apply text-xl font-bold  mt-5;
+  @apply text-3xl font-bold  mt-5;
 }
 
 .document h3 {
-  @apply text-xl font-bold mt-10;
+  @apply text-2xl font-bold mt-10;
 }
 
 .document h4 {
-  @apply text-lg font-bold mb-5;
+  @apply text-xl font-bold mb-5;
 }
 .document a {
   @apply font-semibold text-blue-500;
@@ -76,7 +77,14 @@ query Document ($path: String!) {
 }
 
 .document blockquote {
-  font-style: italic;
-  @apply text-lg border-l-2 px-2 m-2 border-gray-400 italic text-gray-700;
+  @apply leading-loose bg-gray-100 text-gray-500 w-full border-solid border-l-8 text-xl my-12 mx-auto py-5 pr-8 pl-20 relative italic;
+}
+
+.document blockquote::before {
+  @apply text-6xl absolute text-blue-500;
+  font-family: Arial;
+  content: "\201C";
+  left: 10px;
+  top: -10px;
 }
 </style>
