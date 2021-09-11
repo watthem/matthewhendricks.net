@@ -196,7 +196,7 @@ Completed Coursework Towards Associate in Science
 
 - Chainlink Hybrid smart contracts
 
-- Ethereum Solitary
+- Ethereum Solidity
 
 - Ethereum Network
 

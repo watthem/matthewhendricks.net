@@ -83,7 +83,7 @@ Additional experience Ninja Trader Group LLC as **Product Manager** and **Techni
 - Python
 - Ruby
 - Cardano Plutus Core
-- Ethereum Solitary
+- Ethereum Solidity
 - Markdown
 - HTML
 - Linux
