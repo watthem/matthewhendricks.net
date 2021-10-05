@@ -24,7 +24,7 @@ I assume you might be a recruiter or maybe a hiring manager. So I understand you
 
 - See my [resume](/resume/)
 
-#### If you you’re looking for an example of my work
+#### If you’re looking for an example of my work
 
 - See my [portfolio work](/work/)
 
@@ -42,7 +42,7 @@ I assume you might be a recruiter or maybe a hiring manager. So I understand you
 
 ## Why I’m not on LinkedIn
 
-I used LinkedIn daily - for years. Despite the fondness I felt for the connections and interactions I’ve had, I took a hard look at my ROI over time spent using LinkedIn. And it hit me - all that time - LinkedIn had provided me \$0 in successful opportunities.
+I used LinkedIn daily - for years. Despite the fondness I felt for the connections and interactions I’ve had, I took a hard look at my ROI over time spent using LinkedIn. And it hit me - all that time - LinkedIn had provided me zero in successful opportunities.
 
 Maybe I didn’t use it correctly; perhaps I didn’t have time. (Or perhaps [I felt vulnerable](https://9to5mac.com/2021/06/29/linkedin-breach/)).
 
