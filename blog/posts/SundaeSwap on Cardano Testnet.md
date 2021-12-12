@@ -7,7 +7,7 @@ description: "One of the most talked about DApps will be introduced soon. I will
 
 published: true
 
-tags: ["trading", "cardano", "dex", "#dapp"]
+tags: ["cardano", "dex", "dapp"]
 
 title: SundaeSwap on Cardano Testnet
 
@@ -24,21 +24,23 @@ There are other wonderful DEXs existing on other networks like Ethereum and Harm
 
 Let's simplify before we get started.
 
-Cardano is a decentralized ledger that works similar to Ethereum, but works more closely to Bitcoin. Although only in how it signs and stores transactions. It's important to understand the Ethereum keeps a real-time "Account" model, similar to how a bank does. Cardano has gone back to the drawing board and offers an extension to the [uXTO model](https://en.wikipedia.org/wiki/Unspent_transaction_output) and provides a new way to process and assign ownership to objects on a blockchain.
+Cardano is a decentralized ledger that works similarly to Ethereum, but signs and stores transactions more closely to Bitcoin. It's important to understand the Ethereum keeps a real-time "Account" model, similar to how a bank does. Cardano has gone back to the drawing board and offers an extension to the [uXTO model](https://en.wikipedia.org/wiki/Unspent_transaction_output), and provides a new way to process and assign ownership to objects on a blockchain.
 
-I believe it’s important to understand because there will be a fundamental difference. Coming from other blockchains, we need to adjust expectations of how a DEX works
+I believe it’s important to understand because there will be a fundamental difference. Coming from other blockchains, we need to adjust expectations of how a DEX works.
 
 But today we're talking about SundaeSwap, so let's get to it!
 
 ## Welcome and Onboarding
 
+To get started, go to https://sundaeswap.finance and you're prompted to download and install the [Nami Wallet](https://namiwallet.io/) for your desktop as a Chrome, Brave, or Edge extension. This also requires you to set up a Nami wallet pass phrase and password. Once set up, you can send [Cardano's testnet](https://testnets.cardano.org/en/testnets/cardano/tools/faucet/) funds to your new Nami address.
+
 ![https://mscott.b-cdn.net/images/sundaeswap/welcometopublictestnetbeta20211211224241.png](https://mscott.b-cdn.net/images/sundaeswap/welcometopublictestnetbeta20211211224241.png)
 
-- There's an intro welcoming you to set up [Nami Wallet](https://namiwallet.io/) (I already had installed), Connecting the Wallet, and Funding the account. Nami is the only supported wallet, but works similar to [Yoroi](https://yoroi-wallet.com/#/) or [MetaMask](https://metamask.io/).
+- There's an intro welcoming you to set up **Nami Wallet browser extension**, then **Connect** and **Fund** Your Wallet. Nami is the only supported wallet, but works similar to [Yoroi](https://yoroi-wallet.com/#/) or [MetaMask](https://metamask.io/).
 
 ![https://mscott.b-cdn.net/images/sundaeswap/sweetexchangeconnectwalletprompt20211211211747.png](https://mscott.b-cdn.net/images/sundaeswap/sweetexchangeconnectwalletprompt20211211211747.png)
 
-- The home page updates to a screen showing a few tokens. Users need to connect their wallet to interact with these.
+> _Note_: I already had Nami installed with **testnet funds**. If you're coming from Daedalus/Yoroi, read the Nami Wallet FAQ as their disclaimer says they "prefer to create a new wallet for Nami to avoid confusion and keep the user experience great".
 
 ![https://mscott.b-cdn.net/images/sundaeswap/mobilewalletprompt20211211225707.png](https://mscott.b-cdn.net/images/sundaeswap/mobilewalletprompt20211211225707.png)
 
@@ -46,37 +48,35 @@ But today we're talking about SundaeSwap, so let's get to it!
 
 ### Connect Your Wallet and Funding
 
-To get started, download and install the Nami wallet for your desktop as a Chrome, Brave, or Edge extension. This also requires you to set up a Nami wallet pass phrase and password. Once set up, you can send testnet funds to your new Nami address.
-
-> Tip: If you need funds for testnet, you can easily get some **test Ada** (tAda) from the [facuet on the Cradano website](https://testnets.cardano.org/en/testnets/cardano/tools/faucet/)
-
 ![https://mscott.b-cdn.net/images/sundaeswap/connectyourwallet20211211211818.png](https://mscott.b-cdn.net/images/sundaeswap/connectyourwallet20211211211818.png)
 
-- When you select "Connect Wallet", they gave you a modal that lets you select the only supported wallet at this stage (Nami wallet).
+- When you select the **Connect Wallet** button, a modal appears letting you select the only supported wallet at this stage (Nami wallet).
 
 ### Allowing access for SundaeSwap on testnet
 
 ![https://mscott.b-cdn.net/images/sundaeswap/accessyourwallet20211211211837.png](https://mscott.b-cdn.net/images/sundaeswap/accessyourwallet20211211211837.png)
 
-- If you've ever used other DEX's like UniSwap or Sushiswap along with MetaMask, this workflow should look pretty familiar. If not, basically we are giving SundaeSwap authorization to connect to Nami, our wallet with funds.
+- If you've ever used other DEX's like UniSwap or Sushiswap along with MetaMask, this workflow should look pretty familiar. If not, basically we are giving SundaeSwap **Access** to connect to Nami, our wallet with funds.
 
-### My sweet address is set up by Nami
+### Nami provides my sweet address
 
 ![https://mscott.b-cdn.net/images/sundaeswap/sweetaddress20211211211848.png](https://mscott.b-cdn.net/images/sundaeswap/sweetaddress20211211211848.png)
 
-- Your wallet address displays on the wallet button and interacting with it gives you option to see details, look at transactions, or disconnect (more on these transaction details later).
+- Your **wallet address** displays on the wallet button and interacting with it gives you option to see details, look at transactions, or disconnect (more on these transaction details later).
+
+> _Tip_: If you need funds for testnet, you can easily get some **test Ada** (tAda) from the [faucet on the Cardano website](https://testnets.cardano.org/en/testnets/cardano/tools/faucet/)
 
 ## Now let's get swapping
 
-I went to the `/#/swap` page and threw in one of the top tokens I saw listed on the exchange.
+I went to the [/swap](https://testnet.sundaeswap.finance/#/swap) page and threw in one of the top tokens I saw listed on the exchange, **RBERRY**.
 
 ![https://mscott.b-cdn.net/images/sundaeswap/selectatoken20211211212046.png](https://mscott.b-cdn.net/images/sundaeswap/selectatoken20211211212046.png)
 
-- Showing my ADA mainnet balance from Nami wallet, sweet.
+- Showing my ADA testnet balance from Nami wallet, sweet.
 
 ![https://mscott.b-cdn.net/images/sundaeswap/swappingadaforrberry20211211212015.png](https://mscott.b-cdn.net/images/sundaeswap/swappingadaforrberry20211211212015.png)
 
-- 100 testnet ADA bucks sounds like a fair swap to me.
+- 100 testnet ADA bucks sounds like a fair **Swap** to me.
 
 ### Confirm Swap
 
@@ -86,7 +86,7 @@ I went to the `/#/swap` page and threw in one of the top tokens I saw listed on 
 
 - To swap, you literally need to hold down your mouse for several seconds to allow the transaction.
 
-> A note on the Hold to Swap - there is a neat animation that happens and updates when it is ready for you to release the transaction. As a former Product Manager who worked on these types of UX issues for a trading platform, I am pretty thrilled with that experience. I think that was a cool way to add a little more control and caution to a trader’s discretion. While there might be some technical reasons for this type of confirmation, like many aspects of SundaeSwap, the design is just fun.
+> A note on the **Hold to Swap** - there is a neat animation that happens and updates when it is ready for you to release the transaction. As a former Product Manager who worked on these types of UX issues for a trading platform, I am pretty thrilled with that experience. I think that was a cool way to add a little more control and caution to a trader’s discretion. While there might be some technical reasons for this type of confirmation, like many aspects of SundaeSwap, the design is just fun. I will not spoil that part, just [go check it out for yourself](https://sundaeswap.finance/#/swap).
 
 ### Swapping 100 ADA for RBERRY
 
@@ -104,7 +104,7 @@ Looks good.
 
 ![https://mscott.b-cdn.net/images/sundaeswap/confirmpassword20211211212420.png](https://mscott.b-cdn.net/images/sundaeswap/confirmpassword20211211212420.png)
 
-- (and Nami is a slick looking wallet, btw).
+- (and Nami is a slick-looking wallet, btw).
 
 ## Ok, well, that's about as far as it's going to go, with no volume
 
@@ -112,7 +112,7 @@ Looks good.
 
 So again, this is a beta demo on a testnet. If there was volume between these pairs, I might have more to share. But let's look at the user interface in this state, because it gives us a great time to review what you might need to do in case an order was pending. As you know, any exchange is basically zero-sum. For there to be buyers, there needs to be sellers.
 
-If you're new to using DEXs, it's not uncommon for a desired SWAP to take time for there to be sufficient interest in your order to complete. It might be worth considering how you are going to handle a SWAP if that happens. So let's look at that while we're here...
+If you're new to using DEXs, it's not uncommon for a desired trade to take time for there to be sufficient interest in your order to complete. It might be worth considering how you are going to handle a trade if that happens. So let's look at that while we're here...
 
 ### See the pending transaction
 
@@ -128,7 +128,7 @@ If you're new to using DEXs, it's not uncommon for a desired SWAP to take time f
 
 ![https://mscott.b-cdn.net/images/sundaeswap/walletposition20211211212853.png](https://mscott.b-cdn.net/images/sundaeswap/walletposition20211211212853.png)
 
-- From the `/portfolio/` page, you can see the ADA amount from before has been subtracted because of the order pending.
+- From the [portfolio](https://sundaeswap.finance/#/portfolio) page, you can see the ADA amount from before has been subtracted because of the order pending.
 
 ### Checking on Pending Transactions
 
@@ -151,6 +151,8 @@ If you're new to using DEXs, it's not uncommon for a desired SWAP to take time f
 - Cancel pending. Again, after a short time, there was a little toasty that popped up to let me know the most recent state of the order was successful (but I wasn't able to get that screen shot in time).
 
 ## Summary
+
+While it was great to play with the SundaeSwap UI, I still have not interacted with any testnet transactions. When the mainnet goes live, I will dedicate time to playing with functionality other than swapping, such as the various product pools that help swappers earn from similar products popularized by Uniswap. You can read more from [SundaeSwap's Whitepaper](https://sundaeswap.finance/papers/SundaeSwap-2021-06-01-Fundamentals.pdf) and https://sundaeswap.finance/faq
 
 Cardano's power is in its staking capabilities, and DEXs are maturing beyond simple means of quickly getting from one coin to another. The intrinsic value you will see coming from products like SundaeSwap is liquidity pools with attractive staking rewards and other community-owned decentralized financial infrastructure.
 
