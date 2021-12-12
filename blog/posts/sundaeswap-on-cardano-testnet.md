@@ -66,7 +66,7 @@ To get started, enter the app from <https://sundaeswap.finance> and when you pre
 
 ![https://mscott.b-cdn.net/images/sundaeswap/accessyourwallet20211211211837.png](https://mscott.b-cdn.net/images/sundaeswap/accessyourwallet20211211211837.png)
 
-- If you've ever used other DEX's like UniSwap or Sushiswap along with MetaMask, this workflow should look pretty familiar. If not, basically we are giving SundaeSwap **Access** to connect to Nami, our wallet with funds.
+- If you've ever used other DEXs like UniSwap or Sushiswap along with MetaMask, this workflow should look pretty familiar. If not, basically we are giving SundaeSwap **Access** to connect to Nami, our wallet with funds.
 
 ### Nami provides my sweet address
 
