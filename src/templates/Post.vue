@@ -75,12 +75,29 @@ export default {
   metaInfo() {
     return {
       title: this.$page.post.title,
+      author: "Matthew Scott Hendricks",
       meta: [
         {
           // Meta Description
           key: "description",
           name: "description",
           content: this.$page.post.description,
+        },
+        {
+          // Meta Description
+          key: "keywords",
+          name: "keywords",
+          content: this.$page.post.tags,
+        },
+        {
+          name: "twitter:card",
+          content: this.$page.post.cover_image
+            ? "summary_large_image"
+            : "summary",
+        },
+        {
+          property: "og:image",
+          content: this.$page.post.cover_image || "",
         },
       ],
     };
