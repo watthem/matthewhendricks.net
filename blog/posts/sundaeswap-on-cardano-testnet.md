@@ -1,9 +1,9 @@
 ---
-cover_image: "https://mscott.b-cdn.net/images/sundaeswap/SundaeSwaponTestnet20211211225529.png"
+cover_image: "https://mscott.b-cdn.net/images/sundaeswap/welcometopublictestnetbeta20211211224241.png"
 
 date: 2021-12-11
 
-description: "One of the most talked about DApps will be introduced soon. I will show you from its first beta release."
+description: "One of the most talked about DApps will be introduced soon. I will show you the experience starting at this week's first beta release."
 
 published: true
 
@@ -18,15 +18,25 @@ created: 2021-12-11T23:47:17
 
 [SundaeSwap](https://sundaeswap.finance/) is a decentralized exchange (DEX) and one of the first of its kind to run on the Cardano network.
 
+![https://mscott.b-cdn.net/images/sundaeswap/SundaeSwaponTestnet20211211225529.png](https://mscott.b-cdn.net/images/sundaeswap/SundaeSwaponTestnet20211211225529.png)
+
 There are other wonderful DEXs existing on other networks like Ethereum and Harmony. But many are eager to see what the client experience is going to be for one of the first robust offerings to be ready in the Cardano ecosystem.
 
 ### If you're new to the Cardano ecosystem
 
 Let's simplify before we get started.
 
-Cardano is a decentralized ledger that works similarly to Ethereum, but signs and stores transactions more closely to Bitcoin. It's important to understand the Ethereum keeps a real-time "Account" model, similar to how a bank does. Cardano has gone back to the drawing board and offers an extension to the [uXTO model](https://en.wikipedia.org/wiki/Unspent_transaction_output), and provides a new way to process and assign ownership to objects on a blockchain.
+Cardano is a decentralized ledger that works similarly to Ethereum, but signs and stores transactions more closely to Bitcoin. It's important to understand the Ethereum keeps a real-time "Account" model, similar to how a bank does. Cardano has gone back to the drawing board and offers an extension to the [uXTO model](https://en.wikipedia.org/wiki/Unspent_transaction_output), and provides a [new way to process and assign ownership](https://iohk.io/en/research/library/papers/the-extended-utxo-model/) to objects on a blockchain.
 
-I believe it’s important to understand because there will be a fundamental difference. Coming from other blockchains, we need to adjust expectations of how a DEX works.
+![https://docs.cardano.org/static/98785c30bd93c58d5457df010020b804/5a190/eutxo_diagram.png](https://docs.cardano.org/static/98785c30bd93c58d5457df010020b804/5a190/eutxo_diagram.png)
+
+- Read more about [UTXO and EUTXO on Cardano's docs](https://docs.cardano.org/plutus/eutxo-explainer)
+
+I believe it’s important to understand because there will be a fundamental difference in how we use these platforms.
+
+![https://miro.medium.com/max/1000/1*3LVsWbgP2TVCFHGObBjWVA@2x.png](https://miro.medium.com/max/1000/1*3LVsWbgP2TVCFHGObBjWVA@2x.png)
+
+- Coming from other blockchains, we need to [adjust expectations of how a DEX works](https://sundaeswap-finance.medium.com/concurrency-state-cardano-c160f8c07575).
 
 But today we're talking about SundaeSwap, so let's get to it!
 
