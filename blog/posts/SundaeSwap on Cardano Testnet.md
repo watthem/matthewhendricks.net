@@ -32,7 +32,7 @@ But today we're talking about SundaeSwap, so let's get to it!
 
 ## Welcome and Onboarding
 
-To get started, go to https://sundaeswap.finance and you're prompted to download and install the [Nami Wallet](https://namiwallet.io/) for your desktop as a Chrome, Brave, or Edge extension. This also requires you to set up a Nami wallet pass phrase and password. Once set up, you can send [Cardano's testnet](https://testnets.cardano.org/en/testnets/cardano/tools/faucet/) funds to your new Nami address.
+To get started, go to https://sundaeswap.finance and when you press the playfully placed **Beta Guide** CTA, you're prompted to download and install the [Nami Wallet](https://namiwallet.io/) for your desktop as a Chrome, Brave, or Edge extension. This also requires you to set up a Nami wallet pass phrase and password. Once set up, you can send [Cardano's testnet](https://testnets.cardano.org/en/testnets/cardano/tools/faucet/) funds for your new Nami address.
 
 ![https://mscott.b-cdn.net/images/sundaeswap/welcometopublictestnetbeta20211211224241.png](https://mscott.b-cdn.net/images/sundaeswap/welcometopublictestnetbeta20211211224241.png)
 
@@ -44,7 +44,7 @@ To get started, go to https://sundaeswap.finance and you're prompted to download
 
 ![https://mscott.b-cdn.net/images/sundaeswap/mobilewalletprompt20211211225707.png](https://mscott.b-cdn.net/images/sundaeswap/mobilewalletprompt20211211225707.png)
 
-- On mobile, a warm welcome to the beta users that sets some reasonable expectations for a beta dex.
+- On mobile, a friendly reminder to the beta guide that sets some reasonable expectations for a beta dex.
 
 ### Connect Your Wallet and Funding
 
