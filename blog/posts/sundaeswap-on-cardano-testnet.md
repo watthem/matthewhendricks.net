@@ -46,11 +46,11 @@ To get started, go to https://sundaeswap.finance and when you press the playfull
 
 ![https://mscott.b-cdn.net/images/sundaeswap/welcometopublictestnetbeta20211211224241.png](https://mscott.b-cdn.net/images/sundaeswap/welcometopublictestnetbeta20211211224241.png)
 
-- There's an intro welcoming you to set up **Nami Wallet browser extension**, then **Connect** and **Fund** Your Wallet. Nami is the only supported wallet, but works similar to [Yoroi](https://yoroi-wallet.com/#/) or [MetaMask](https://metamask.io/).
+- There's an intro welcoming you to set up **Nami Wallet browser extension**, then **Connect** and **Fund** Your Wallet. Nami is the only supported wallet, but works similar to Yoroi or MetaMask.
 
 ![https://mscott.b-cdn.net/images/sundaeswap/sweetexchangeconnectwalletprompt20211211211747.png](https://mscott.b-cdn.net/images/sundaeswap/sweetexchangeconnectwalletprompt20211211211747.png)
 
-> _Note_: I already had Nami installed with **testnet funds**. If you're coming from Daedalus/Yoroi, read the Nami Wallet FAQ as their disclaimer says they "prefer to create a new wallet for Nami to avoid confusion and keep the user experience great".
+> _Note_: I already had Nami installed with **testnet funds**. If you're coming from Daedalus/Yoroi, read the [Nami Wallet FAQ](https://namiwallet.io/) as their disclaimer says they "prefer to create a new wallet for Nami to avoid confusion and keep the user experience great".
 
 ![https://mscott.b-cdn.net/images/sundaeswap/mobilewalletprompt20211211225707.png](https://mscott.b-cdn.net/images/sundaeswap/mobilewalletprompt20211211225707.png)
 
