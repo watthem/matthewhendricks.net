@@ -42,7 +42,7 @@ But today we're talking about SundaeSwap, so let's get to it!
 
 ## Welcome and Onboarding
 
-To get started, go to https://sundaeswap.finance and when you press the playfully placed **Beta Guide** CTA, you're prompted to download and install the [Nami Wallet](https://namiwallet.io/) for your desktop as a Chrome, Brave, or Edge extension. This also requires you to set up a Nami wallet pass phrase and password. Once set up, you can send [Cardano's testnet](https://testnets.cardano.org/en/testnets/cardano/tools/faucet/) funds for your new Nami address.
+To get started, enter the app from <https://sundaeswap.finance> and when you press the playfully placed **Beta Guide** CTA, you're prompted to download and install the [Nami Wallet](https://namiwallet.io/) for your desktop as a Chrome, Brave, or Edge extension. This also requires you to set up a Nami wallet pass phrase and password. Once set up, you can send [Cardano's testnet](https://testnets.cardano.org/en/testnets/cardano/tools/faucet/) funds for your new Nami address.
 
 ![https://mscott.b-cdn.net/images/sundaeswap/welcometopublictestnetbeta20211211224241.png](https://mscott.b-cdn.net/images/sundaeswap/welcometopublictestnetbeta20211211224241.png)
 
@@ -102,13 +102,13 @@ I went to the [/swap](https://testnet.sundaeswap.finance/#/swap) page and threw 
 
 ![https://mscott.b-cdn.net/images/sundaeswap/swappingADAforRBERRY20211211212337.png](https://mscott.b-cdn.net/images/sundaeswap/swappingADAforRBERRY20211211212337.png)
 
-Looks good.
+- Looks good.
 
 ### Signing The Request
 
 ![https://mscott.b-cdn.net/images/sundaeswap/Signtransaction20211211212352.png](https://mscott.b-cdn.net/images/sundaeswap/Signtransaction20211211212352.png)
 
-- That's the right amount
+- That's the right amount + fees.
 
 ### And don't forget that Spending Password
 
