@@ -7,7 +7,7 @@ description: "One of the most talked about DApps will be introduced soon. I will
 
 published: true
 
-tags: ["cardano", "dex", "dapp"]
+tags: ["decentralization", "cardano", "dapp", "fintech"]
 
 title: SundaeSwap on Cardano Testnet
 
