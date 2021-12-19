@@ -3,7 +3,7 @@ cover_image: "https://images.unsplash.com/photo-1526297003708-f5a1c2c9c6e7?ixlib
 
 date: 2021-12-19
 
-description: 'You might still be asking, "Why is this whole thing such a big deal?"'
+description: 'You might still be asking, "Why is this whole thing so important?"'
 
 published: true
 
@@ -83,7 +83,7 @@ It would not be too far-fetched from today’s models to implement fair and tran
 
 No matter the system used, by matching previously documented work activities, a knowledge graph gives us specific data about previously experienced situations to help the economy revise products and reuse them for solving additional problems identified in new situations. This allows for incremental processes and inventory development that can be recalled, sustained, revised, and kept for future problems. We can anonymize and circulate providing companies more data that into the economy to help us learn from each other. In public, like we always did before we decided our time was so valuable.
 
-If you can’t see the difference between using exiting current corporate vendors versus using these ideas coming from blockchain protocol, we will no longer need to be at the mercy of any authority (think Ticketmaster vs your favorite local venue).
+The difference between using exiting current corporate vendors versus using these ideas coming from blockchain protocol is that we will no longer need to be at the mercy of any authority (think Ticketmaster vs your favorite local venue).
 
 Local participants could create small “liquidity pools” for individuals and supporters alike that would help translate value, stake, and rewards directly to the participants.
 
@@ -105,7 +105,7 @@ The same is true for any NFT, regardless of the underlying fractional asset. It�
 
 And neither should we undermine the rational and secure policy of smart contracts.
 
-From the start, we realized we needed this standard to automate the operation of the gold standard. Looking back 100 years, we find references to the important advantages of commodity reserves:
+From the start, we realized we needed this standard to automate the operation of the gold. Looking back 100 years, we find references to the important advantages of commodity reserves:
 
 - **effective international acceptance** — removes the need to submit policy decisions to international authority
 - **automatic economic policy** — provides predictable monetary value easing use for all parties
