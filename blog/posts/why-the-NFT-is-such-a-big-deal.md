@@ -179,7 +179,7 @@ Our society needs unions more than ever. We have a rich history of collectives, 
 - Open government of distributive negotiation for allocation of fixed resources, such as liquidity funds, software licenses, patents, and other assets distributed between parties.
 - Unbiased and inclusive productivity capacity planning for workforce management and corporate team milestones and analytics.
 
-We have no choice but to use the tools we have today. It may not be a perfect solution, but it’s time to drop machines that completely manage the implication that a DAO should be fully autonomous. There’s a hybrid approach that rarely gets discussed and it’s time to look at how we can use this model to apply to the current worker’s rights violations epidemic happening across the world today.
+We have no choice but to use the tools we have today. It may not be a perfect solution, but it’s time to drop the implication that machines need to manage 100% of the DAO. Or that it should be fully autonomous. There’s a hybrid approach that rarely gets discussed and it’s time to look at how we can use this model to apply to the current worker’s rights violations epidemic happening across the world today. DAOs are just collectives and it helps to think of it as a cooperative.
 
 ## On the whole, in the right direction
 
