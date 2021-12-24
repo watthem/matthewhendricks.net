@@ -75,7 +75,7 @@ At a minimum, your NFT should emit at least one ERC-721 compliant transfer. If y
 event Transfer(address indexed _from, address indexed _to, uint256 indexed _tokenId);
 ```
 
-![example of ERC-721 functions and events](/example-ERC-721-standard%20.png)
+![example of ERC-721 functions and events](/example-ERC-721-standard.png)
 
 ### Other examples
 
