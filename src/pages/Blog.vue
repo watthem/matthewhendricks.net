@@ -6,7 +6,7 @@
       >
     </div>
     <div class="py-4">
-      <h1 class="text-xl text-blue-800 mb-2">Blog Articles</h1>
+      <h1 class="text-xl text-blue-800 mb-2">Blog Posts</h1>
     </div>
     <div class="py-4">
       <BlogFeedPost

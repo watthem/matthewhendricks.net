@@ -14,17 +14,18 @@
           </p>
           <p class="py-8">
             <button
-              class="bg-transparent text-xs hover:bg-blue-100 font-semibold py-2 px-4 border border-blue-500 hover:border-transparent rounded"
+              class="bg-transparent mr-3 text-xs hover:bg-blue-300 font-semibold py-2 px-4 border border-blue-500 hover:border-transparent rounded"
             >
               <g-link to="/about">Learn more about me</g-link>
             </button>
-            <p>
-            (or
-            <g-link class="underline" to="/about#contact">send me a note</g-link
-            >)
-            </p>
+            <button
+              class="hover:bg-transparent text-xs bg-blue-100 font-semibold py-2 px-4 border hover:border-blue-500 border-transparent rounded"
+            >
+              <g-link to="/about#contact">Or send me a note</g-link>
+            </button>
           </p>
         </div>
+
         <h2 class="text-3xl font-bold text-gray-800 dark:text-gray-100">
           Find me on these branches
         </h2>
