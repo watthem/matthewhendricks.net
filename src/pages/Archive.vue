@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <div class="py-4">
-      <h1 class="text-xl mb-2">All Projects and Articles</h1>
+      <h1 class="text-xl mb-2">All Projects and Posts</h1>
     </div>
     <div class="py-4">
       <ul class="flex flex-wrap">
