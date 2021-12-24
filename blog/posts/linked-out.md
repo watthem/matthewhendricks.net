@@ -9,7 +9,7 @@ canonical_url: false
 date: 2021-03-23
 cover_image: https://images.unsplash.com/photo-1510432160893-9e77a331fc0c
 description: "Looking for me on LinkedIn? Well, good news - it looks like you found me, anyway!"
-published: true
+published: false
 tags: ["work-history", "decentralization"]
 title: "LinkedOut"
 ---

@@ -75,6 +75,8 @@ event Transfer(address indexed _from, address indexed _to, uint256 indexed _toke
 
 ![example of ERC-721 functions and events](/example-ERC-721-standard%20.png)
 
+### Other examples
+
 Some blockchain support the previous encoding and abstraction natively. For example, Cardano lets you encode and hash this data automatically with no additional script.
 
 It is a bit of an oversimplification, but using the Cardano CLI you can build a file that keeps all the policy of the contract coupled with some protocol related metadata in the JSON format seen earlier. There's much more you need to do to set this up and sign the transaction, but the relevant parts would be in generating a EUXTO address using similar hashing concepts as with CIDs.
