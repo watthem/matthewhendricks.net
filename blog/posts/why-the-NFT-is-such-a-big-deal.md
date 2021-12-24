@@ -7,7 +7,7 @@ description: 'You might still be asking, "Why is this whole thing so important?"
 
 published: true
 
-tags: ["decentralization", "dao", "fintech"]
+tags: ["decentralization", "dao", "fintech", "tokens"]
 
 title: Why the NFT is such a big deal
 

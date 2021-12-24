@@ -146,4 +146,25 @@ query Post ($path: String!) {
 .post article ul {
   @apply list-disc mx-10;
 }
+
+.post code {
+  word-wrap: break-word;
+  background-color: #e2e8f0;
+  color: #2d3748;
+}
+
+.post pre {
+  padding: 30px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  webkit-box-sizing: border-box;
+  display: block;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+  width: 100%;
+  overflow-x: auto;
+}
 </style>
