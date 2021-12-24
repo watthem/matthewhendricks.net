@@ -18,9 +18,11 @@ With all this [talk about NFTs](/blog/why-the-nft-is-such-a-big-deal/) and quest
 
 ## Create your datum
 
-In the world of NFTs, datum is the "thing" we attach to the smart contract. There's lots of tools and tech to do this, but basically what we are doing is taking a piece of content, and deriving a unique identifier from the content itself. This produces a unique string known as a CID (content identifier). [IPFS solves content addressing](https://docs.ipfs.io/concepts/content-addressing/) decentralized way — so it's a common choice for NTFs.
+In the world of NFTs, datum is the "thing" we attach to the smart contract. There's lots of tools and tech to do this, but basically what we are doing is taking a piece of content and deriving a unique identifier from the content itself. This produces a unique string known as a CID (content identifier).
 
 ![the IPFS NFT storage solutions](/nft-storage-ipfs.png)
+
+[IPFS solves content addressing](https://docs.ipfs.io/concepts/content-addressing/) decentralized way — so it's a common choice for NTFs.
 
 Unique content can be encoded, distributed in permanent fashion, and value set by participants taking part at the exchange levels.
 
