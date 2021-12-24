@@ -3,13 +3,13 @@ cover_image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb
 
 date: 2021-12-24
 
-description: "Ok so — but what is it, really?"
+description: "Ok so — but what is it, really? Take a look and demystify the NFT."
 
 published: true
 
 tags: ["decentralization", "tokens", "fintech"]
 
-title: How to tokenize a message into an NFT
+title: How to tokenize a document into an NFT
 
 created: 2021-12-22T17:29:24
 ---
@@ -26,7 +26,7 @@ In the world of NFTs, datum is the "thing" we attach to the smart contract. Ther
 
 Unique content can be encoded, distributed in permanent fashion, and value set by participants taking part at the exchange levels.
 
-One popular approach to persisting NFT content is to generate a CID for both the content and the description of the content. This creates an abstraction between the smart contract, the blockchain, the place we host, and the contents itself. It also gives better control by creating unique hashes from the content that are easier to detect if they change. Let's look at how you do that.
+One popular approach to persisting NFT content is to generate a CID for both the content and the description of the content. This creates an abstraction between the smart contract, the blockchain, the place we host, and the contents itself. It also gives better control by creating unique hashes from the content that are easier to detect if they change. Ok so — but what is it, really? Take a look and demystify the NFT.
 
 ### Encode it
 

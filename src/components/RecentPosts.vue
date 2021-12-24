@@ -1,6 +1,7 @@
 <template>
   <div
     class="max-w-sm
+      h-full
       overflow-hidden
       md:space-x-4
       rounded-lg

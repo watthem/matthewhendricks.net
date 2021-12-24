@@ -146,17 +146,6 @@ Keeping track of this custom native token information is done by storing meta-da
 
 The **cardano-token-registry** is designed to ensure public trust in the datasets and helps ensure full decentralization. In existence, Cardano Native token registry helps ensure that the Cardano network users themselves are the owners of the data.
 
-[Learn how to register a Native token (and how doing so betters the Cardano ecosystem))](Learn%20how%20to%20register%20a%20Native%20token%20(and%20how%20doing%20so%20betters%20the%20Cardano%20ecosystem)
-
 The Cardano Native blockchain takes creative use of existing technologies and lessons from other technologies to provide a new and exiting mechanism that can be applied to an infinite number of business cases.
 
-## Footnotes
 
-- [Native tokens to bring new utility to life on Cardano - IOHK Blog](//decentfintech.net/resources/cardano/Native%20tokens%20to%20bring%20new%20utility%20to%20life%20on%20Cardano%20-%20IOHK%20Blog)
-- [Building native tokens on Cardano for pleasure and profit - IOHK Blog](//decentfintech.net/resources/cardano/Building%20native%20tokens%20on%20Cardano%20for%20pleasure%20and%20profit%20-%20IOHK%20Blog)
-- [Cardano’s Extended UTXO accounting model – built to support multi-assets and smart contracts (part 2) - IOHK Blog](<//decentfintech.net/resources/cardano/Cardano’s%20Extended%20UTXO%20accounting%20model%20–%20built%20to%20support%20multi-assets%20and%20smart%20contracts%20(part%202)%20-%20IOHK%20Blog>)
-- [Announcing a new round of community stake pool delegation - IOHK Blog](/Announcing%20a%20new%20round%20of%20community%20stake%20pool%20delegation%20-%20IOHK%20Blog)
-- [Native tokens on Cardano; core principles and points of difference - IOHK Blog](//decentfintech.net/resources/cardano/Native%20tokens%20on%20Cardano;%20core%20principles%20and%20points%20of%20difference%20-%20IOHK%20Blog)
-- [UTXOmaUTXO with Multi-Asset Support - IOHK Research](UTXOmaUTXO%20with%20Multi-Asset%20Support%20-%20IOHK%20Research)
-- [Multi-Asset Tokens Explainer](//decentfintech.net/resources/cardano/Multi-Asset%20Tokens%20Explainer)
-- [Native tokens on Cardano - IOHK Blog](//decentfintech.net/resources/cardano/Native%20tokens%20on%20Cardano%20-%20IOHK%20Blog)
