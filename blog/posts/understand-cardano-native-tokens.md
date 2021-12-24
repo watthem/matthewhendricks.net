@@ -7,8 +7,7 @@ expert: Cardano's Native tokens let an admin define bundles of both off-chain an
 layout: article
 published: true
 description: "A practical breakdown of multi-asset tokens"
-tags:
-  ["cardano", "native-tokens", "decentralization", "fintech", "cryptocurrency"]
+tags: ["cardano", "tokens", "decentralization", "fintech", "cryptocurrency"]
 title: "Understand Cardano Native tokens"
 ---
 
