@@ -153,6 +153,11 @@ query Post ($path: String!) {
   color: #2d3748;
 }
 
+.post blockquote {
+  background-color: #e2e8f0;
+  color: #2d3748;
+}
+
 .post pre {
   padding: 30px;
   box-sizing: border-box;
