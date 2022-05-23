@@ -6,7 +6,7 @@
       >
     </div>
     <div class="py-4">
-      <h1 class="text-xl text-blue-800 mb-2">Blog Posts</h1>
+      <h1>Blog Posts</h1>
     </div>
     <div class="py-4">
       <BlogFeedPost
@@ -28,6 +28,7 @@ query {
         date (format: "D MMMM YYYY")
         path
         description
+        excerpt
         cover_image
         author
         tags {

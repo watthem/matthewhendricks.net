@@ -1,6 +1,6 @@
 ---
 cover_image: https://images.unsplash.com/photo-1562583275-c98e160346ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80
-expert: Similar to how we know some other states as tax headquarters for companies all over the world, soon Cheyenne Wyoming is about to have more block chain based companies.
+excerpt: Similar to how we know some other states as tax headquarters for companies all over the world, soon Cheyenne Wyoming is about to have more block chain based companies.
 layout: article
 description: "(and how to form one for yourself.)"
 tags: ["decentralization", "dao", "fintech"]
@@ -81,7 +81,7 @@ The Wyoming DAO supplement applies standard Limited Liability Cooperation protec
 
 Just like an LLC may be “member managed” or “owner managed”, the Wyoming DAO supplement gives legal protection to property and capital contributions that owners have delegated. It also helps provide a way to divide member “shares” as tokens. By providing a path to list an operating agreement, the DAO enables organizations to capitalize on merging distributed ledger technologies that help solve accounting problems for the modern era.
 
-Coupled with [emerging technologies like Cardano Native tokens](Understand%20Cardano%20Native%20tokens), members can reliably document member’s DAO activity from sources either on or off the chain. This lets you store and transfer dollars and bitcoin and maybe even your house too.
+Coupled with [emerging technologies like Cardano Native tokens](public/decentfintech.net/articles/Understand%20Cardano%20Native%20tokens.md), members can reliably document member’s DAO activity from sources either on or off the chain. This lets you store and transfer dollars and bitcoin and maybe even your house too.
 
 By the law, the DAO articles of organization or operating agreement must article a statement substantially in the following form:
 

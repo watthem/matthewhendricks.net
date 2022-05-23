@@ -4,7 +4,7 @@
       <g-link class="text-blue-500" to="/archive">&larr; View archive</g-link>
     </div>
     <div class="py-4">
-      <h1 class="text-xl mb-2">Pages tagged `{{ $page.tags.title }}`</h1>
+      <h1>Pages tagged `{{ $page.tags.title }}`</h1>
     </div>
 
     <div class="py-4">

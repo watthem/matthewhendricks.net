@@ -1,23 +1,17 @@
 ---
-Activity: Writing
-Progress: Final
-Project Type: Production
-Status: Done
-author: Matthew Hendricks
-subjects: ["philosophy"]
-Type: Article
-Writing Stage: Final
-canonical_url: false
-cover_image: https://mscott.b-cdn.net/images/time-in.jpg
+author: "Matthew Hendricks"
+cover_image: "https://mscott.b-cdn.net/images/time-in.jpg"
 date: 2019-12-24
+description: "Each day, I try to spend at least 1-hour of time to myself in moments I've learned to call Time-in."
+excerpt: "Each day, I try to spend at least 1-hour of time to myself in moments"
 featured: true
 published: true
-tags: ["mental-health"]
-title: Why I practice time-in
-description: "Each day, I try to spend at least 1-hour of time to myself in moments I've learned to call Time-in."
+subjects: ["philosophy"]
+tags: ["#mental-health"]
+title: "Why I practice time-in"
 ---
 
-Each day, I try to spend at least 1-hour of time to myself in moments [I've learned to call “Time-in”](https://davidrock.net/files/02_The_Healthy_Mind_Platter_US.pdf).
+[“Time-in”](https://davidrock.net/files/02_The_Healthy_Mind_Platter_US.pdf) is part of the healthy mind platter popularized by Dr. David Rock and , Daniel J. Siegel.
 
 There are [two facets of mindfulness positively related to well-being](https://www.sciencedirect.com/science/article/abs/pii/S0191886915005127) that I try to prioritize during this hour:
 

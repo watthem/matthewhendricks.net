@@ -14,7 +14,7 @@ title: Examples of NTFs that have nothing to do with art
 created: 2021-12-11T23:47:17
 ---
 
-While thinking about [how to tokenize documents](how-to-tokenize-a-doc-into-an-nft) or even the rationalization of the NFT, it's important to remember that none of these concepts are new.
+While thinking about [how to tokenize documents](public/matthewhendricks.net/blog/posts/how-to-tokenize-a-doc-into-an-nft.md) or even the rationalization of the NFT, it's important to remember that none of these concepts are new.
 
 The NFT platform allows innovative assignment and storage of all kinds of new concepts. So let’s explore a few real-world NFT applications with nothing to do with right-click-savings.
 

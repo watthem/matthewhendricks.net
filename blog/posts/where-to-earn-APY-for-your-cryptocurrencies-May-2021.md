@@ -1,6 +1,6 @@
 ---
 cover_image: https://images.unsplash.com/photo-1554134449-8ad2b1dea29e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
-expert: As of May 2021, there are popular "DeFi" ways to earn ‘free’ cryptocurrency you may not know about.
+excerpt: As of May 2021, there are popular "DeFi" ways to earn ‘free’ cryptocurrency you may not know about.
 description: 3 simple methods of earning cryptocurrencies rewards
 tags: ["fintech", "decentralization", "cryptocurrency", "proof-of-stake"]
 title: Where to earn APY for your Cryptocurrencies (May 2021)

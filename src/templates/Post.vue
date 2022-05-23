@@ -6,30 +6,28 @@
     </div>
     <!-- Title + Date -->
     <div class="my-4">
-      <h1 class="text-xl mb-2" v-html="$page.post.title" />
+      <h1 v-html="$page.post.title" />
+      <div class="w-full">
+        <div class="m-5">
+          <div class="">
+            <span class="mr-5">{{ $page.post.date }}</span>
 
+            <g-link
+              v-for="tag in $page.post.tags"
+              :key="tag.id"
+              :to="tag.path"
+              class="text-xs mr-2 font-medium text-blue-600 uppercase dark:text-blue-400"
+              >#{{ tag.title }}</g-link
+            >
+          </div>
+        </div>
+      </div>
       <div class="mt-5">
         <blockquote
-          class="text-lg border-l-2 px-2 border-gray-400 italic text-gray-700"
-          v-html="$page.post.description"
+          v-html="$page.post.excerpt || $page.post.description"
         ></blockquote>
 
         <div class="">
-          <div class="w-full">
-            <div class="m-5">
-              <div class="">
-                <span class="mr-5">{{ $page.post.date }}</span>
-
-                <g-link
-                  v-for="tag in $page.post.tags"
-                  :key="tag.id"
-                  :to="tag.path"
-                  class="text-xs mr-2 font-medium text-blue-600 uppercase dark:text-blue-400"
-                  >#{{ tag.title }}</g-link
-                >
-              </div>
-            </div>
-          </div>
           <div class="mt-6 flex justify-start">
             <div>
               <g-link to="/about"
@@ -66,12 +64,18 @@
         <!-- Blog Post -->
         <div v-html="$page.post.content" class="space-y-6" />
       </article>
+      <NewsLetterForm class="my-10"></NewsLetterForm>
     </div>
   </Layout>
 </template>
 
 <script>
+import NewsLetterForm from "@/components/NewsLetterForm";
+
 export default {
+  components: {
+    NewsLetterForm,
+  },
   metaInfo() {
     return {
       title: this.$page.post.title,
@@ -114,6 +118,7 @@ query Post ($path: String!) {
     date (format: "D MMMM YYYY")
     timeToRead
     description
+    excerpt
     cover_image
     tags {
       title
@@ -124,52 +129,6 @@ query Post ($path: String!) {
 }
 </page-query>
 
-<style>
-/* Apply Global Post Article Styles Here */
-
-.post h1 {
-  @apply text-4xl font-bold;
-}
-
-.post h2 {
-  @apply text-2xl font-bold;
-}
-
-.post h3 {
-  @apply text-lg font-bold;
-}
-
-.post article a {
-  @apply text-blue-500 underline;
-}
-
-.post article ul {
-  @apply list-disc mx-10;
-}
-
-.post code {
-  word-wrap: break-word;
-  background-color: #e2e8f0;
-  color: #2d3748;
-}
-
-.post blockquote {
-  background-color: #e2e8f0;
-  color: #2d3748;
-}
-
-.post pre {
-  padding: 30px;
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  webkit-box-sizing: border-box;
-  display: block;
-  white-space: pre-wrap;
-  white-space: -moz-pre-wrap;
-  white-space: -pre-wrap;
-  white-space: -o-pre-wrap;
-  word-wrap: break-word;
-  width: 100%;
-  overflow-x: auto;
-}
+<style scoped>
+/* Apply Post Article Styles Here */
 </style>

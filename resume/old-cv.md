@@ -1,7 +1,7 @@
 ---
 title: Matthew S. Hendricks - Long form CV
 
-subtitle: Digital Business Analyst
+subtitle: Design Technologist
 
 description: "Technical generalist with over a decade of experience supporting financial technologies and an excellent reputation for resolving problems while improving customer satisfaction."
 

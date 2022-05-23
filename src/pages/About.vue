@@ -6,9 +6,93 @@
       >
     </div>
     <div class="py-4">
-      <h1 class="text-xl text-blue-800 mb-2" id="about-matthew">
+      <h1 id="about-matthew">
         About Matthew
       </h1>
+
+      <div class="about">
+        <p>
+          I create digital experiences that help brands and companies connect
+          with their customers. I am a creative, out of the box thinker who can
+          use technology to help companies reach more people.
+        </p>
+        <blockquote>
+          Using technology, we can create a more inclusive web for people with
+          visual impairments, dyslexia, and other cognitive disabilities. I
+          believe it&apos;s time to make this happen. This is <s>my</s> our
+          mission.
+        </blockquote>
+
+        <h2 class="mt-8" id="brainstorming-for-you">
+          Brainstorming for you
+        </h2>
+
+        <p>
+          As a
+          <a
+            href="https://indeed.design/article/what-is-a-design-technologist"
+            target="_blank"
+            >Design Technologist</a
+          >, I care about creating inclusive digital experiences that benefit
+          everyone. I’m interested in building solutions and enabling people by
+          developing products so that even those with learning disabilities can
+          use. This includes optimized documents, websites and web applications.
+          I truly believe in the power of design and its potential for a
+          positive impact on people’s lives. To bring more positive change, I
+          want to empower people to learn things independently using the power
+          of technology. That’s why I’m helping team members become more
+          self-aware, reflective, and vital in their workflows. I experiment,
+          support, and build as we focus on improving ourselves as a team
+          through a collaborative and human-oriented approach.
+        </p>
+        <h3 class="mume-header" id="who-i-work-with">Who I work with</h3>
+        <p>
+          I thrive in an environment filled with curious and mischievous minds
+          looking to discover effective ways of solving problems. I can bring
+          creative, out of the box thinking and help make technology work for
+          everyone.
+        </p>
+
+        <h3 class="mume-header" id="why-me">
+          I am a disruptor — mindful not to undermining input or value.
+        </h3>
+
+        <p>
+          I am not satisfied by the status quo. I create
+          <a href="/blog/what-we-call-feedback-is-isolating/"
+            >value through accountability</a
+          >
+          and innovate to do things differently and better. I look at things
+          <a href="/blog/discovering-my-learning-disability/"
+            >against the grain than everyone else</a
+          >
+          to help companies create digital experiences that add value to people
+          of all abilities.
+        </p>
+        <h3 class="mume-header" id="what-i-look-for">What I look for</h3>
+
+        <p>
+          I&#x2019;m looking to help teams be themselves and make mistakes as we
+          iterate and innovate on products that we love to work (or play) with
+          by supporting each other&apos;s unique strengths. As an inclusive
+          designer/developer, I hone in on empathy, understanding and know how
+          to listen. I am excited about the act of designing alongside teams,
+          testing prototypes, and providing solutions for the right ticket.
+        </p>
+
+        <h3 class="mume-header" id="what-i-look-for">What I use</h3>
+        <p>Prefers*: Markdown, Vue.js, Tailwind, Figma, Netlify</p>
+        <pre>*Willing to work with alternatives</pre>
+        <h2 class="mume-header" id="contact-me">Contact me</h2>
+
+        <p>
+          Let&apos;s use technology to help people with dyslexia, visual
+          impairments and other cognitive disabilities. Making the web a little
+          more accessible for them.
+        </p>
+      </div>
+
+      <p></p>
     </div>
 
     <div class="py-4">
@@ -37,7 +121,7 @@
     </div>
     <div class="py-4 my-10 leading-loose">
       <span class="">👋</span>
-      <h2 class="text-blue-700 font-bold">Writer/Consultant</h2>
+      <h2 class="text-blue-700 font-bold">Engineer/Writer/Consultant</h2>
       <p class="">
         I have worked with both start-ups and independent consulting gigs.
         I&#39;ve also had the good fortune of working for technology giants:
@@ -89,7 +173,7 @@
       </h2>
 
       <div class="mt-6 ">
-        <form action="https://formspree.io/mayprbyk" method="POST">
+        <form action="https://formspree.io/mayprbyk" method="about">
           <div class="sender-info">
             <div class="group">
               <div class="items-center -mx-2 md:flex">
@@ -337,16 +421,44 @@ export default {
 </script>
 
 <style scoped>
-/* Apply Global Post Article Styles Here */
 .about h2 {
-  @apply text-xl font-bold;
+  @apply text-2xl font-bold;
 }
 
 .about h3 {
   @apply text-lg font-bold;
 }
 
-.about a {
-  @apply font-semibold text-blue-500;
+.about article a {
+  @apply text-blue-500 underline;
+}
+
+.about article ul {
+  @apply list-disc mx-10;
+}
+
+.about code {
+  word-wrap: break-word;
+  background-color: #e2e8f0;
+  color: #2d3748;
+}
+
+.about pre {
+  padding: 30px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  webkit-box-sizing: border-box;
+  display: block;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+  width: 100%;
+  overflow-x: auto;
+}
+
+.about p {
+  padding: 1rem 0;
 }
 </style>
