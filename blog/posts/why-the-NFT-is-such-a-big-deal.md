@@ -3,6 +3,8 @@ cover_image: "https://images.unsplash.com/photo-1526297003708-f5a1c2c9c6e7?ixlib
 
 date: 2021-12-22
 
+excerpt: "If you add the NFT value proposition back into industries like the gig economy, we automatically shift power back in the hands of people to allow them to take part in a tangible system of consequence."
+
 description: 'You might still be asking, "Why is this whole thing so important?"'
 
 published: true
@@ -34,7 +36,9 @@ The same application applies crypto, their liquidity pools, and ultimately to NF
 
 And why use a blockchain for social honor concepts at all?
 
-Let’s clear something up right away. An NFT is not a picture. An NFT isn't a piece of music or currency. Nor is it a “receipt” or acknowledgment, as it’s so cleverly referred. It’s a [tokenized (data secure)](https://en.wikipedia.org/wiki/Tokenization_%28data_security%29) agreement. And in today’s cryptocurrencies, we know it as a smart contract. But not only any smart contract; an NFT is typically a variation of the ERC-721 smart contract the defines the specific events and functionality, making it globally unique in a way so that within the contract we can:
+Let’s clear something up right away. An NFT is not a picture. An NFT isn't a piece of music or currency. Nor is it a “receipt” or even a simple "acknowledgment" (as it’s so cleverly referred).
+
+It's a [tokenized (data secure)](https://en.wikipedia.org/wiki/Tokenization_%28data_security%29) agreement. And in today’s cryptocurrencies, we know it as a smart contract. But not only any smart contract; an NFT is typically a variation of the ERC-721 smart contract the defines the specific events and functionality, making it globally unique in a way so that within the contract we can:
 
 - assign anyone ownership
 - describe its contents as unique

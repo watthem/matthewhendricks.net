@@ -7,7 +7,7 @@
     </div>
 
     <div class="py-4">
-      <h1 class="text-xl text-blue-800 mb-2">
+      <h1>
         Matthew's Resume
       </h1>
     </div>
@@ -41,9 +41,9 @@
             </svg>
           </a>
 
-          <h1 class="mx-3 text-lg font-semibold text-white">
+          <h3 class="mx-3 text-lg font-semibold text-white">
             <g-link to="/resume/cv/">Matthew Hendricks</g-link>
-          </h1>
+          </h3>
         </div>
 
         <div class="px-6 py-4">
@@ -52,13 +52,14 @@
             <p>{{ $page.allDocument.edges[0].node.description }}</p>
           </div>
           <div class="mt-2 p-2">
-            <g-link
-              class="text-blue-500 cursor-pointer dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300"
-              to="/resume/cv/"
-              >👍 See my resume &rarr;</g-link
-            >
-
             <ul>
+              <li class="mt-2 p-2">
+                <g-link
+                  class="text-blue-500 cursor-pointer dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300"
+                  to="/resume/cv/"
+                  >See my resume &rarr;</g-link
+                >
+              </li>
               <li class="mt-2 p-2">
                 <button
                   class="bg-transparent text-xs hover:bg-blue-100 font-semibold py-2 px-4 border border-blue-500 hover:border-transparent rounded"
@@ -66,7 +67,7 @@
                   <a
                     class="text-blue-500 cursor-pointer dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300"
                     href="/Matthew_Hendricks-CV.pdf"
-                    >Download as .PDF &darr;</a
+                    >🖨️ Download as .PDF &darr;</a
                   >
                 </button>
               </li>
@@ -77,7 +78,7 @@
                   <a
                     class="text-blue-500 cursor-pointer dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300"
                     href="/Matthew_Hendricks-CV.docx"
-                    >Download as .DOCX &darr;</a
+                    >🗎 Download as .DOCX &darr;</a
                   >
                 </button>
               </li>
@@ -134,7 +135,7 @@
               />
             </svg>
 
-            <h1 class="px-2 text-sm">Seattle, WA</h1>
+            <p class="px-2 text-sm">Seattle, WA</p>
           </div>
 
           <div class="flex items-center mt-4 text-gray-700 dark:text-gray-200">

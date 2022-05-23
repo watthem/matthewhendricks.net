@@ -1,5 +1,5 @@
 <template>
-  <div class="m-auto w-full">
+  <div class="layout m-auto w-full">
     <!-- Header & Navigation -->
     <header class="bg-white dark:bg-gray-800 container w-full m-auto">
       <nav
@@ -30,8 +30,8 @@
           <div>
             <g-link
               class="font-medium text-gray-700 dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400 mx-4"
-              to="/resume/"
-              >Resume</g-link
+              to="/work/"
+              >Examples</g-link
             >
           </div>
           <div>
@@ -169,24 +169,59 @@ query {
 }
 </static-query>
 
-<style scoped>
+<style>
 /* Add any Global Styles Here */
 
-.active--exact {
-  /* Active Nav Link */
-  @apply text-gray-900;
+h1 {
+  @apply text-4xl font-bold text-xl text-blue-900 mb-2;
 }
 
-body {
-  line-height: 2.8;
+h2 {
+  @apply text-2xl font-bold;
 }
 
-.fade-enter-active {
-  transition: opacity 0.5s;
+h3 {
+  @apply text-lg font-bold;
 }
 
-.fade-enter {
-  opacity: 0;
+a {
+  @apply text-blue-500 underline;
+}
+
+ul {
+  @apply list-disc mx-10;
+}
+
+code {
+  word-wrap: break-word;
+  background-color: #e2e8f0;
+  color: #2d3748;
+}
+
+pre {
+  padding: 30px;
+  box-sizing: border-box;
+  display: block;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  width: 100%;
+  overflow-x: auto;
+}
+
+blockquote {
+  @apply p-4 italic bg-gray-100 text-gray-600 border-gray-500 leading-loose w-full border-solid border-l-8 relative;
+}
+
+blockquote::before {
+  @apply text-6xl absolute text-blue-500;
+  font-family: Arial;
+  content: "\201C";
+  left: 10px;
+  top: -10px;
+}
+
+button a {
+  text-decoration: none;
 }
 </style>
 

@@ -1,38 +1,37 @@
 <template>
   <Layout>
-    <div class="w-2/3 m-auto">
+    <section>
       <TagLine></TagLine>
-    </div>
-
-    <div class="w-full m-auto">
       <PlatformList></PlatformList>
-    </div>
-    <h2>Recent Posts</h2>
-    <div class="w-full m-auto flex row-wrap">
-      <div
-        v-for="recent in $page.recentPosts.edges"
-        :key="recent.id"
-        class="p-4"
-      >
-        <RecentPosts :post="recent"></RecentPosts>
-      </div>
-    </div>
-    <div class="text-center my-8">
-      <button
-        class="hover:bg-transparent text-xs bg-blue-100 font-semibold py-2 px-4 border hover:border-blue-500 border-transparent rounded"
-      >
-        <g-link to="/blog/">More posts</g-link>
-      </button>
-    </div>
-    <div class="w-full bg-blue-100 py-20 rounded-tr-full">
+    </section>
+    <section class="w-full bg-blue-100 py-20 rounded-tr-full">
       <FeaturedContent></FeaturedContent>
-    </div>
-    <div class="w-full my-20">
+    </section>
+    <section>
+      <h2>Recent Posts</h2>
+      <div class="mx-2 md:flex">
+        <div
+          v-for="recent in $page.recentPosts.edges"
+          :key="recent.id"
+          class="p-4"
+        >
+          <RecentPosts :post="recent"></RecentPosts>
+        </div>
+      </div>
+      <div class="text-center">
+        <button
+          class="hover:bg-transparent text-xs bg-blue-100 font-semibold py-2 px-4 border hover:border-blue-500 border-transparent rounded"
+        >
+          <g-link to="/blog/">More posts</g-link>
+        </button>
+      </div>
+    </section>
+    <section class="w-full my-20">
       <PageGallery></PageGallery>
-    </div>
-    <div class="w-full">
+    </section>
+    <section class="w-full">
       <NewsLetterForm></NewsLetterForm>
-    </div>
+    </section>
   </Layout>
 </template>
 

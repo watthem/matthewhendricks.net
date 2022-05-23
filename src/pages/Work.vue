@@ -6,7 +6,7 @@
       >
     </div>
     <div class="py-4">
-      <h1 class="text-xl text-blue-800 mb-2">Matthew's Work Examples</h1>
+      <h1>Matthew's Work Examples</h1>
     </div>
     <div class="py-4">
       <FeaturedContent></FeaturedContent>

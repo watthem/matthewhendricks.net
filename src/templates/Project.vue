@@ -8,7 +8,7 @@
     <article class="project">
       <!-- Title + Date -->
       <div class="my-6">
-        <h1 class="text-xl mb-2" v-html="$page.project.title" />
+        <h1 v-html="$page.project.title" />
         <p class="py-4">
           👉 Read directly at
           <a

@@ -1,15 +1,18 @@
 ---
 date: 2021-04-25T13:07:30
-Stage: #edit
-Status: #feedback
 cover_image: https://images.unsplash.com/photo-1539627831859-a911cf04d3cd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80
-expert: Cardano's Native tokens let an admin define bundles of both off-chain and on-chain assets. They can also let others transact and exchange these tokens using the same wallets they keep their ADA (the blockchain's core asset).
+excerpt: Cardano's Native tokens let an admin define bundles of both off-chain and on-chain assets. They can also let others transact and exchange these tokens using the same wallets they keep their ADA (the blockchain's core asset).
 layout: article
 published: true
 description: "A practical breakdown of multi-asset tokens"
 tags: ["cardano", "tokens", "decentralization", "fintech", "cryptocurrency"]
 title: "Understand Cardano Native tokens"
 ---
+
+***
+Stage: #edit
+Status: #feedback 
+***
 
 In March 2021, the [Cardano developers released the Mary hark fork to the Cardano mainnet](https://forum.cardano.org/t/the-mary-hard-fork-faq-everything-you-need-to-know/50971) that added the ability for people to create user-defined tokens.
 

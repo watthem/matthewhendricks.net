@@ -11,12 +11,15 @@
     <!-- newsletter sign-up -->
     <div class="container px-6 py-16 mx-auto">
       <div class="items-center">
-        <div class="flex items-center justify-center ">
-          <img
-            class="object-cover object-bottom h-64 rounded-md shadow w-full"
+        <div
+          class="object-bottom h-64 rounded-md shadow bg-fixed bg-contain bg-center bg-no-repeat"
+          style="background-image:linear-gradient(var(--tw-ring-color), var(--tw-ring-offset-color)), url(/redwood.jpeg)"
+        >
+          <!-- <img
+            class=" w-full"
             src="/redwood.jpeg"
             alt="#"
-          />
+          /> -->
         </div>
       </div>
       <div class="bg-gray-100">

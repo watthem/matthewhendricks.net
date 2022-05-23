@@ -6,7 +6,7 @@
       >
     </div>
     <div class="py-4">
-      <h1 class="text-xl mb-2" v-html="$page.document.title" />
+      <h1 v-html="$page.document.title" />
       <p v-html="$page.document.date" class="text-gray-600" />
     </div>
 
@@ -74,18 +74,6 @@ query Document ($path: String!) {
 
 .document ul {
   @apply list-disc mx-10;
-}
-
-.document blockquote {
-  @apply leading-loose bg-gray-100 text-gray-500 w-full border-solid border-l-8 text-xl my-12 mx-auto py-5 pr-8 pl-20 relative italic;
-}
-
-.document blockquote::before {
-  @apply text-6xl absolute text-blue-500;
-  font-family: Arial;
-  content: "\201C";
-  left: 10px;
-  top: -10px;
 }
 
 .document code {

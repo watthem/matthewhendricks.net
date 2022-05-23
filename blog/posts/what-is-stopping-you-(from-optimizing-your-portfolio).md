@@ -3,7 +3,7 @@ title: What is stopping you from optimizing your portfolio
 created: 2021-09-30T06:59:18
 date: 2021-09-30
 cover_image: "https://images.unsplash.com/photo-1519766277046-4d701c174ab2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1341&q=80"
-expert: "While it's nice to believe that the strategy you poured hours into crafting works the same as you expect it often is not the reality."
+excerpt: "While it's nice to believe that the strategy you poured hours into crafting works the same as you expect it often is not the reality. Instead of feeling overwhelmed when you realized these problems exist, you can use your knowledge to learn how to incorporate into your financial decision making."
 description: "Attempts to maximize portfolio returns and financial decision making often is blinded by our biases that are impossible to see."
 tags: ["fintech", "trading"]
 published: true

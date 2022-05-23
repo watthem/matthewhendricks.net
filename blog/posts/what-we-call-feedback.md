@@ -1,7 +1,9 @@
 ---
 title: What we call feedback is isolating
 
-description: "“it takes a village to grow a human mind.”"
+description: "Since Covid-19, I have been in a broken feedback loop. I think we have a related experience that we should be open about."
+
+excerpt: "“it takes a village to grow a human mind.”"
 
 tags: ["mental-health"]
 
@@ -16,17 +18,25 @@ cover_image: https://images.unsplash.com/photo-1493915651924-bb0dd6b29091?ixlib=
 
 ## A crisis of conscientiousness (lack of self regulation)
 
-The research is clear: social isolation is at the root of the cause of many of the major social dilemmas today [[1](#1)].
+The research is clear: social isolation is at the root of the cause of many of the major social dilemmas today [[1](/what-we-call-feedback-is-isolating/#1)].
 
 I look at the modern isolation crisis is a giant broken feedback loop. Yet we are all told the prize of our work is about the quality of information itself rather than what form it possesses.
 
-Ask your self, when was the last time you felt like you were being held truly accountable? When was the last time you said you would do something, you didn’t do it, and there was some demonstrable consequence for that behavior? I’m sure I’m not alone here. I’m not trying to be critical or shame anyone - but we have a problem. And measuring it alone will not fix this.
+Ask your self, when was the last time you felt like you were being held truly accountable? When was the last time you said you would do something, you didn’t do it, and there was some demonstrable consequence for that behavior? I’m sure I’m not alone here. I’m not trying to be critical or shame anyone - but we have a problem. And measuring it alone will not fix this. We need to do something about it.
+
+We’ve all heard the phrase, “what gets measured gets improved.” But, how often do you ask yourself why you are measuring? And are you measuring the right thing? Do you have a plan for what to do when your metrics reach a certain level or point of inflection? And finally, who is really accountable for those decisions?
+
+If I had to guess, most people would say they are being held accountable and that their leaders are measuring the right things. I’m not so sure about that and here’s why: accountability becomes an issue when people don’t follow through with their commitments. There is no accountability when people do what they say they will do. When you hold someone accountable - it means you have already gone through the process of making sure they know what is expected of them, how to accomplish it, and why it matters in the first place. It also means that there is some sort of demonstrable consequence for not meeting those expectations. This may be why leadership development programs often don’t show results - because there is no real accountability after the fact.
 
 ### They pay us to think
+
+When was the last time you heard that a person who didn’t follow through was held to some effect?
 
 I think we number the days of the KPI driven performance review. We can’t measure our thoughts, so we can’t quantify the amount of time and care it takes to generate output for so-called infotainment.
 
 I believe we are all valuable knowledge workers, and in our work we are each held accountable to create value, but the social changes over the last 50 years have removed natural accountability built into society and cause us to seek it out. So many of us become stuck, unhappy, and knowing they don’t have to be.
+
+I would love to see a movement of people taking back control of their lives and their work. We have become so used to being told what to do and how to do it that we have lost sight of what we are capable of. We need to remember that we are the experts in our own lives and we know what is best for us.
 
 ## Today you are alone
 
@@ -50,9 +60,9 @@ People will stop to ask themselves, what is it you are saying is valuable here? 
 
 ### It's the container stupid
 
-What I learned was it’s not just the output we produce that brings value - it’s the total knowledge that we can bring to the community that brings value.
+What I learned was it’s not just the output we produce that brings value - it’s the total knowledge (input + output) that we can bring to the community that brings value.
 
-Technology and specializations of work in the modern world create the vast amount of value we see today. The content we produce and the output we can perform ghastly outpaces any amount of value humans have created in history. But as the world works and it pays humans to think about the same problems over and over, day-to-day, we act as if it’s the content itself is valuable.
+Technology and specializations of work in the modern world create the vast amount of value we see today. The content we produce and the rate we can perform ghastly outpaces any amount of value humans have created in history. But as the world works and it pays humans to think about the same problems over and over, day-to-day, we act as if it’s the content itself is valuable.
 
 It’s not what we hold inside that brings value to our work. It’s the relationships we build and how we contain them bringing us together. But just knowing that is not enough. Because we have lost control of our containers. And we are no longer in control of our the value we create.
 
@@ -70,7 +80,7 @@ I suppose it’s possible for me to reframe those weird feelings. I suppose the 
 
 Like many of you, in my history, I don’t take unasked for criticism very well. It stands out in a lot of instances in my mind, so I can imagine these negative feelings stand out in the minds of you too. I understand it might be sometimes painful to reach for feedback, but as I'm reminded recently, communication is a two-way street.
 
-> “it takes a village to grow a human mind.” - Peter Shallard [2]
+> “it takes a village to grow a human mind.” - Peter Shallard [[2](#2)]
 
 Consider perhaps that perspective is another one of those silly little tricks we play on ourselves. So it's also important not take everyone else's so seriously.
 

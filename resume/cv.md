@@ -1,9 +1,9 @@
 ---
 title: Matthew Hendricks - Resume
 
-subtitle: Digital Business Analyst
+subtitle: Design Technologist
 
-description: "Highly motivated and results-driven technical professional with ability to manage the full spectrum of financial technology with an excellent reputation for resolving problems while improving customer satisfaction. Possess rich knowledge of hands-on traditional finance, modern programming concepts and content management systems."
+description: "Background in user experience, web, and design documentation."
 
 date: 2021-09-07
 
