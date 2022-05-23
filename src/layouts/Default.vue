@@ -213,9 +213,9 @@ blockquote {
 }
 
 blockquote::before {
-  @apply text-6xl absolute text-blue-500 block -top-3 -left-1;
+  /* @apply text-6xl absolute text-blue-500 block -top-3 -left-1;
   font-family: Arial;
-  content: "\201C";
+  content: "\201C"; */
 }
 
 button a {
