@@ -17,7 +17,7 @@
         </p>
         <main
           class="mx-auto w-full p-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28 relative bg-fixed bg-center bg-contain bg-no-repeat"
-          style="background-image:linear-gradient(var(--tw-ring-color), var(--tw-ring-offset-color)), url(/redwood.jpeg)"
+          style="background-image:linear-gradient(var(--tw-ring-color), var(--tw-ring-offset-color)), url('/redwood.jpeg')"
         >
           <div class="sm:text-center lg:text-left">
             <h1
