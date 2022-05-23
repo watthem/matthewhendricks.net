@@ -213,7 +213,7 @@ blockquote {
 }
 
 blockquote::before {
-  @apply text-6xl absolute text-blue-500;
+  @apply text-6xl absolute text-blue-500 block;
   font-family: Arial;
   content: "\201C";
   left: 10px;
