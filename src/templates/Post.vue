@@ -8,6 +8,14 @@
     <div class="my-4">
       <h1 v-html="$page.post.title" />
       <div class="w-full">
+        <p
+          class="m-2"
+          v-if="$page.post.description"
+          v-html="$page.post.description"
+        ></p>
+        <div class="py-4">
+          <img class="" :src="$page.post.cover_image" />
+        </div>
         <div class="m-5">
           <div class="">
             <span class="mr-5">{{ $page.post.date }}</span>
@@ -24,7 +32,8 @@
       </div>
       <div class="mt-5">
         <blockquote
-          v-html="$page.post.excerpt || $page.post.description"
+          v-if="$page.post.excerpt"
+          v-html="$page.post.excerpt"
         ></blockquote>
 
         <div class="">
@@ -56,9 +65,7 @@
     </div>
 
     <hr class="py-4" />
-    <div class="py-4">
-      <img class="" :src="$page.post.cover_image" />
-    </div>
+
     <div class="py-4">
       <article class="post ">
         <!-- Blog Post -->

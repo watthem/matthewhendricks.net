@@ -8,7 +8,7 @@ tags:
   - mental-health
 category: wellness
 published: false
-excerpt: “Michael Singer’s book, the Untethered Soul, has made a good impression on me. I like the points about habits and pain. I would recommend it to anyone who is interested in exploring the spiritual path of self-awakening.”
+excerpt: “Michael Singer’s book, the Untethered Soul, has made a good impression on me. I like the points about habits and pain. I would recommend it to anyone who is interested in exploring the wellness path of self-awakening.”
 description: "The Untethered Soul by Michael Singer is a book about liberation from the self-imposed limitations of the ego. It is a guide to living in harmony with your true nature."
 ---
 
@@ -28,14 +28,6 @@ There are three parts: "The Ego," "The Journey," and "The Path."
 
 In the first part, Singer explores the nature of the ego and its role in creating suffering. He then outlines the journey of self-awakening and discusses the various stages of growth that we experience as we move towards liberation. In the last section, he provides practical advice for living an untethered life.
 
-## Evaluation
-
-Michael Singer's book, [the Untethered Soul](https://untetheredsoul.com/untethered-soul), has made a good impression on me. I like the points about habits and pain. I would recommend it to anyone who is interested in exploring the spiritual path of self-awakening.
-
-Overall, I found this to be an insightful and helpful book. It was especially useful in helping me to understand the ego and its role in causing suffering.
-
-The only critique I can think of is if you’re second guessing this title; I recall feeling apprehensive about it too, like it was going to be some new age woo-woo type thing. People have told me the same thing. But those same people agree it was worth the read. If you're worried about the book being right for you, it probably is!
-
 ### Habits and Pain
 
 If you are avoiding pain, you are letting pain run your life. And the clever solutions we develop to avoid our problems actually help us avoid those feelings - in reality they make keep these problems closer to us than ever.
@@ -52,6 +44,14 @@ There is something important that happens when we are sad, angry, or ashamed. An
 
 By avoiding uncomfortable feelings, we have trained ourselves to become obsessed with the psychological drama of our interpersonal problems.
 Emotions don’t come out of nowhere. And by avoiding them, we are avoiding a key step in the human body’s strategy to handle stress.
+
+## Evaluation
+
+Michael Singer's book, [the Untethered Soul](https://untetheredsoul.com/untethered-soul), has made a good impression on me. I like the points about habits and pain. I would recommend it to anyone who is interested in exploring the wellness path of self-awakening.
+
+Overall, I found this to be an insightful and helpful book. It was especially useful in helping me to understand the ego and its role in causing suffering.
+
+The only critique I can think of is if you’re second guessing this title; I recall feeling apprehensive about it too, like it was going to be some new age woo-woo type thing. People have told me the same thing. But those same people agree it was worth the read. If you're worried about the book being right for you, it probably is!
 
 ## Conclusion
 
