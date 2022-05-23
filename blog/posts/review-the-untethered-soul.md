@@ -7,7 +7,7 @@ tags:
   - books
   - mental-health
 category: wellness
-published: false
+published: true
 excerpt: “Michael Singer’s book, the Untethered Soul, has made a good impression on me. I like the points about habits and pain. I would recommend it to anyone who is interested in exploring the wellness path of self-awakening.”
 description: "The Untethered Soul by Michael Singer is a book about liberation from the self-imposed limitations of the ego. It is a guide to living in harmony with your true nature."
 ---
