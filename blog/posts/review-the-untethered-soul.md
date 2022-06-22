@@ -30,9 +30,9 @@ In the first part, Singer explores the nature of the ego and its role in creatin
 
 ### Habits and Pain
 
-If you are avoiding pain, you are letting pain run your life. And the clever solutions we develop to avoid our problems actually help us avoid those feelings - in reality they make keep these problems closer to us than ever.
+If you are avoiding pain, you are letting pain run your life. And the clever solutions we develop to avoid our problems actually help us avoid those feelings - in reality they make us keep these problems closer to us than ever.
 
-Pain is a chemical response to an emotion. Like any emotion, it needs to be released. We should not undermine the stress cycle process. We have trivialized the idea in the past. But the result only creates more pain.
+Pain is a chemical response to an emotion. Like any emotion, it needs to be released. We should not undermine the stress-response cycle and its process. We have trivialized the idea in the past. But the result only creates more pain.
 
 By avoiding our emotions, we are avoiding a key step in the human body’s strategy for processing challenges.
 

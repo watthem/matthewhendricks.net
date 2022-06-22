@@ -10,12 +10,12 @@ category: wellness
 published: true
 created: 2022-06-22T10:58:48 (UTC -07:00)
 description: 'A subjugation schema is a way of thinking that keeps someone in a subordinate or inferior position. In my case, it was a way of thinking that made me believe I was not good enough to pursue my dream of becoming a musician. Through music, I was able to break free of this way of thinking and achieve my goal.'
-excerpt: "I often let myself limiting believes about myself prevent me from taking my playing to the level I needed. I didn't understand the rules; I thought. And some of my former teachers reinforced the idea that I wasn't capable of some things"
+excerpt: "I often let limiting beliefs about myself prevent me from taking my playing to the level I needed. I didn't understand the rules; I thought. And some of my former teachers reinforced the idea that I wasn't capable of some things"
 ---
 
 Growing up, I was always told what to do. My parents, teachers, and other authority figures always seemed to have an opinion on what I should do, what I should wear, how I should behave, and what I should think. This led to me feeling like I was constantly confined within a schema, or a set of predetermined rules and expectations that—I didn't understand—but I was obligated to follow. I felt like I was trapped in a box, and I didn't have the freedom to be myself.
 
-My parents are both musicians, and it has always drawn me to music. However, I have always been insecure about my abilities. I was never the best among my peers and I always felt like I was playing catch up. While I had lots of experience with freedom and the expression of listening to music, playing was another story. I often let myself limiting believes about myself prevent me from taking my playing to the level I needed. I didn't understand the rules; I thought. And some of my former teachers reinforced the idea that I wasn't capable of some things like rhythm, or playing by ear.
+My parents are both musicians, and it has always drawn me to music. However, I have always been insecure about my abilities. I was never the best among my peers and I always felt like I was playing catch up. While I had lots of experience with freedom and the expression of listening to music, playing was another story. I often let limiting beliefs about myself prevent me from taking my playing to the level I needed. I didn't understand the rules; I thought. And some of my former teachers reinforced the idea that I wasn't capable of some things like rhythm, or playing by ear.
 
 Thankfully, I was able to break free of some of these schemas with the help of learning to lean into feeling happy with recordings, production, and my abilities.
 
@@ -41,8 +41,9 @@ Now, I am more confident in my abilities and I am passionate about music again. 
 
 ## What worked for me might not work for you
 
-This realization allowed me to express myself in ways that I couldn’t otherwise. I soon learned to play along with my favorite songs and let out all of my emotions, and it felt liberating: I realized I didn’t have to conform to the expectations of others; I could be myself and express myself through music.
 Playing music is a great way to relieve anxiety. But I used to feel guilty about playing my guitar or piano while at work, because I felt like I should be working all the time. But I realized that by denying myself the outlet of music, I was only making my anxiety worse. So now I make time to play whenever I can, and it genuinely helps me relax and de-stress.
+
+This realization allowed me to express myself in ways that I couldn’t otherwise. I soon learned to play along with my favorite songs and let out all of my emotions, and it felt liberating: I realized I didn’t have to conform to the expectations of others; I could be myself and express myself through music.
 
 While what worked for me might not work for you, but you should think about your needs and how you might be denying them. There are certain subjection schema that could be limiting yourself and your potential. You can try to explore these areas on your own to see if they are affecting your life in a negative way. If you find that they are, then you can work on finding ways to change them.
 
