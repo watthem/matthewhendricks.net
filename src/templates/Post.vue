@@ -18,15 +18,17 @@
         </div>
         <div class="m-5">
           <div class="">
+            By <g-link to="/about">Matthew Hendricks</g-link> on
             <span class="mr-5">{{ $page.post.date }}</span>
-
-            <g-link
-              v-for="tag in $page.post.tags"
-              :key="tag.id"
-              :to="tag.path"
-              class="text-xs mr-2 font-medium text-blue-600 uppercase dark:text-blue-400"
-              >#{{ tag.title }}</g-link
-            >
+            <div class="text-right">
+              <g-link
+                v-for="tag in $page.post.tags"
+                :key="tag.id"
+                :to="tag.path"
+                class=" text-xs mr-2 font-medium text-blue-600 uppercase dark:text-blue-400 hover:underline hover:text-blue-500"
+                >#{{ tag.title }}</g-link
+              >
+            </div>
           </div>
         </div>
       </div>
@@ -35,32 +37,6 @@
           v-if="$page.post.excerpt"
           v-html="$page.post.excerpt"
         ></blockquote>
-
-        <div class="">
-          <div class="mt-6 flex justify-start">
-            <div>
-              <g-link to="/about"
-                ><img
-                  alt="Matthew Hendricks"
-                  class="rounded-full m-2"
-                  src="/author.jpeg"
-                  width="48"
-                  height="48"
-              /></g-link>
-            </div>
-
-            <div>
-              <span><g-link to="/about">Matthew Hendricks</g-link></span>
-              <div>
-                <button
-                  class="bg-transparent text-xs hover:bg-blue-100 font-semibold py-2 px-4 border border-blue-500 hover:border-transparent rounded"
-                >
-                  <a href="https://matthewhendricks.substack.com/">Follow</a>
-                </button>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
 
@@ -77,7 +53,7 @@
 </template>
 
 <script>
-import NewsLetterForm from "@/components/NewsLetterForm";
+import NewsLetterForm from '@/components/NewsLetterForm';
 
 export default {
   components: {
@@ -86,29 +62,29 @@ export default {
   metaInfo() {
     return {
       title: this.$page.post.title,
-      author: "Matthew Scott Hendricks",
+      author: 'Matthew Scott Hendricks',
       meta: [
         {
           // Meta Description
-          key: "description",
-          name: "description",
+          key: 'description',
+          name: 'description',
           content: this.$page.post.description,
         },
         {
           // Meta Description
-          key: "keywords",
-          name: "keywords",
+          key: 'keywords',
+          name: 'keywords',
           content: this.$page.post.tags,
         },
         {
-          name: "twitter:card",
+          name: 'twitter:card',
           content: this.$page.post.cover_image
-            ? "summary_large_image"
-            : "summary",
+            ? 'summary_large_image'
+            : 'summary',
         },
         {
-          property: "og:image",
-          content: this.$page.post.cover_image || "",
+          property: 'og:image',
+          content: this.$page.post.cover_image || '',
         },
       ],
     };

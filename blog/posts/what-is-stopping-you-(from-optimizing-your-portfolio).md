@@ -79,7 +79,7 @@ Randomness is one way to test a model, but it requires assumption that the resul
 
 The standard boostrap method performs statistical randomization tests if to test theory that the stock returns are independent over time. In this process, individual observations are made on each stock. It also assumes the stock portfolio returns are independent and identically distributed.
 
-Unfortunately there are still problems to over come when picking a block bootstrap model. For the Long Run[[3](#3)], research tells determining whether or not your portfolio trades in parallel is crucial, otherwise the standard bootstrap destroys any returns.
+Unfortunately there are still problems to over come when picking a block bootstrap model. For the Long Run[[3](#3)], research give us a clue: determining whether or not your portfolio trades in parallel is crucial, otherwise the standard bootstrap destroys any returns.
 
 ### Over or underestimated?
 

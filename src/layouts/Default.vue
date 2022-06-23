@@ -221,11 +221,37 @@ blockquote::before {
 button a {
   text-decoration: none;
 }
+
+/* this is to help render the page in a more friendly way in case tailwind cannot load */
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+
+  @apply mx-auto;
+}
+
+/* part of the issue is images are very large, so let's make them smaller in case tailwind doesn't load */
+/* but still reset auto height and width once tailwind is ready */
+
+svg {
+  /* min height and width for default w/o tailwind */
+  height: 2em;
+  width: 2em;
+  @apply h-auto w-auto;
+}
+
+img {
+  /* min height and width for default w/o tailwind */
+  height: 300px;
+  width: 400px;
+  /* apply tailwind when available */
+  @apply h-auto w-auto;
+}
 </style>
 
 <script>
-import SocialIcons from "@/components/SocialIcons";
-import TagLine from "@/components/TagLine";
+import SocialIcons from '@/components/SocialIcons';
+import TagLine from '@/components/TagLine';
 
 export default {
   components: {
