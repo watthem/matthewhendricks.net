@@ -13,7 +13,9 @@ description: 'A subjugation schema is a way of thinking that keeps someone in a 
 excerpt: "I often let limiting beliefs about myself prevent me from taking my playing to the level I needed. I didn't understand the rules; I thought. And some of my former teachers reinforced the idea that I wasn't capable of some things"
 ---
 
-Growing up, I was always told what to do. My parents, teachers, and other authority figures always seemed to have an opinion on what I should do, what I should wear, how I should behave, and what I should think. This led to me feeling like I was constantly confined within a schema, or a set of predetermined rules and expectations that—I didn't understand—but I was obligated to follow. I felt like I was trapped in a box, and I didn't have the freedom to be myself.
+Growing up, I was always told what to do.
+
+My parents, teachers, and other authority figures always seemed to have an opinion on what I should do, what I should wear, how I should behave, and what I should think. This led to me feeling like I was constantly confined within a schema, or a set of predetermined rules and expectations that—I didn't understand—but I was obligated to follow. I felt like I was trapped in a box, and I didn't have the freedom to be myself.
 
 My parents are both musicians, and it has always drawn me to music. However, I have always been insecure about my abilities. I was never the best among my peers and I always felt like I was playing catch up. While I had lots of experience with freedom and the expression of listening to music, playing was another story. I often let limiting beliefs about myself prevent me from taking my playing to the level I needed. I didn't understand the rules; I thought. And some of my former teachers reinforced the idea that I wasn't capable of some things like rhythm, or playing by ear.
 
